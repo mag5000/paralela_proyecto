@@ -1,0 +1,2101 @@
+Algoritmo,Imagen,Tiempo
+CUDA CPU,image_1000_0_0.png,20225
+CPU,image_1000_0_0.png,19539
+CUDA, image_1000_0_0.png,7355
+CUDA V2, image_1000_0_0.png,5124
+CUDA CPU V2, image_1000_0_0.png,5534
+CUDA CPU,image_1000_0_1.png,7051
+CPU,image_1000_0_1.png,20476
+CUDA, image_1000_0_1.png,6983
+CUDA V2, image_1000_0_1.png,5188
+CUDA CPU V2, image_1000_0_1.png,5718
+CUDA CPU,image_1000_0_2.png,6794
+CPU,image_1000_0_2.png,19976
+CUDA, image_1000_0_2.png,7066
+CUDA V2, image_1000_0_2.png,5023
+CUDA CPU V2, image_1000_0_2.png,5113
+CUDA CPU,image_1000_0_3.png,6998
+CPU,image_1000_0_3.png,20084
+CUDA, image_1000_0_3.png,7212
+CUDA V2, image_1000_0_3.png,5784
+CUDA CPU V2, image_1000_0_3.png,5396
+CUDA CPU,image_1000_0_4.png,6824
+CPU,image_1000_0_4.png,19882
+CUDA, image_1000_0_4.png,7656
+CUDA V2, image_1000_0_4.png,5474
+CUDA CPU V2, image_1000_0_4.png,5758
+CUDA CPU,image_1000_0_5.png,7328
+CPU,image_1000_0_5.png,19759
+CUDA, image_1000_0_5.png,7521
+CUDA V2, image_1000_0_5.png,6023
+CUDA CPU V2, image_1000_0_5.png,5383
+CUDA CPU,image_1000_0_6.png,9710
+CPU,image_1000_0_6.png,19662
+CUDA, image_1000_0_6.png,8187
+CUDA V2, image_1000_0_6.png,5627
+CUDA CPU V2, image_1000_0_6.png,5531
+CUDA CPU,image_1000_0_7.png,7446
+CPU,image_1000_0_7.png,19573
+CUDA, image_1000_0_7.png,7725
+CUDA V2, image_1000_0_7.png,5627
+CUDA CPU V2, image_1000_0_7.png,5650
+CUDA CPU,image_1000_0_8.png,7419
+CPU,image_1000_0_8.png,19704
+CUDA, image_1000_0_8.png,7463
+CUDA V2, image_1000_0_8.png,5696
+CUDA CPU V2, image_1000_0_8.png,5616
+CUDA CPU,image_1000_0_9.png,7184
+CPU,image_1000_0_9.png,19668
+CUDA, image_1000_0_9.png,7506
+CUDA V2, image_1000_0_9.png,5583
+CUDA CPU V2, image_1000_0_9.png,5452
+CUDA CPU,image_1000_12_0.png,12216
+CPU,image_1000_12_0.png,43688
+CUDA, image_1000_12_0.png,12280
+CUDA V2, image_1000_12_0.png,9985
+CUDA CPU V2, image_1000_12_0.png,9987
+CUDA CPU,image_1000_12_1.png,14881
+CPU,image_1000_12_1.png,43902
+CUDA, image_1000_12_1.png,12336
+CUDA V2, image_1000_12_1.png,11734
+CUDA CPU V2, image_1000_12_1.png,10507
+CUDA CPU,image_1000_12_2.png,15136
+CPU,image_1000_12_2.png,43893
+CUDA, image_1000_12_2.png,18914
+CUDA V2, image_1000_12_2.png,13290
+CUDA CPU V2, image_1000_12_2.png,11083
+CUDA CPU,image_1000_12_3.png,15932
+CPU,image_1000_12_3.png,44281
+CUDA, image_1000_12_3.png,18656
+CUDA V2, image_1000_12_3.png,12968
+CUDA CPU V2, image_1000_12_3.png,11145
+CUDA CPU,image_1000_12_4.png,16468
+CPU,image_1000_12_4.png,43044
+CUDA, image_1000_12_4.png,22216
+CUDA V2, image_1000_12_4.png,13346
+CUDA CPU V2, image_1000_12_4.png,10814
+CUDA CPU,image_1000_12_5.png,16881
+CPU,image_1000_12_5.png,45752
+CUDA, image_1000_12_5.png,18738
+CUDA V2, image_1000_12_5.png,12486
+CUDA CPU V2, image_1000_12_5.png,12196
+CUDA CPU,image_1000_12_6.png,15990
+CPU,image_1000_12_6.png,42869
+CUDA, image_1000_12_6.png,17933
+CUDA V2, image_1000_12_6.png,12549
+CUDA CPU V2, image_1000_12_6.png,11376
+CUDA CPU,image_1000_12_7.png,16488
+CPU,image_1000_12_7.png,43343
+CUDA, image_1000_12_7.png,18564
+CUDA V2, image_1000_12_7.png,13065
+CUDA CPU V2, image_1000_12_7.png,11406
+CUDA CPU,image_1000_12_8.png,17493
+CPU,image_1000_12_8.png,43021
+CUDA, image_1000_12_8.png,22608
+CUDA V2, image_1000_12_8.png,13883
+CUDA CPU V2, image_1000_12_8.png,11664
+CUDA CPU,image_1000_12_9.png,18995
+CPU,image_1000_12_9.png,43020
+CUDA, image_1000_12_9.png,18460
+CUDA V2, image_1000_12_9.png,12565
+CUDA CPU V2, image_1000_12_9.png,10793
+CUDA CPU,image_1000_15_0.png,17178
+CPU,image_1000_15_0.png,49723
+CUDA, image_1000_15_0.png,20105
+CUDA V2, image_1000_15_0.png,14957
+CUDA CPU V2, image_1000_15_0.png,12194
+CUDA CPU,image_1000_15_1.png,16821
+CPU,image_1000_15_1.png,48953
+CUDA, image_1000_15_1.png,23194
+CUDA V2, image_1000_15_1.png,15124
+CUDA CPU V2, image_1000_15_1.png,12123
+CUDA CPU,image_1000_15_2.png,17442
+CPU,image_1000_15_2.png,52175
+CUDA, image_1000_15_2.png,20427
+CUDA V2, image_1000_15_2.png,13307
+CUDA CPU V2, image_1000_15_2.png,12609
+CUDA CPU,image_1000_15_3.png,17501
+CPU,image_1000_15_3.png,50051
+CUDA, image_1000_15_3.png,25206
+CUDA V2, image_1000_15_3.png,14591
+CUDA CPU V2, image_1000_15_3.png,12157
+CUDA CPU,image_1000_15_4.png,18741
+CPU,image_1000_15_4.png,51123
+CUDA, image_1000_15_4.png,20427
+CUDA V2, image_1000_15_4.png,13413
+CUDA CPU V2, image_1000_15_4.png,11554
+CUDA CPU,image_1000_15_5.png,20391
+CPU,image_1000_15_5.png,48769
+CUDA, image_1000_15_5.png,20497
+CUDA V2, image_1000_15_5.png,15554
+CUDA CPU V2, image_1000_15_5.png,12949
+CUDA CPU,image_1000_15_6.png,17667
+CPU,image_1000_15_6.png,49369
+CUDA, image_1000_15_6.png,19848
+CUDA V2, image_1000_15_6.png,13353
+CUDA CPU V2, image_1000_15_6.png,12108
+CUDA CPU,image_1000_15_7.png,18069
+CPU,image_1000_15_7.png,48525
+CUDA, image_1000_15_7.png,24808
+CUDA V2, image_1000_15_7.png,13536
+CUDA CPU V2, image_1000_15_7.png,12055
+CUDA CPU,image_1000_15_8.png,18241
+CPU,image_1000_15_8.png,48928
+CUDA, image_1000_15_8.png,20405
+CUDA V2, image_1000_15_8.png,13526
+CUDA CPU V2, image_1000_15_8.png,11853
+CUDA CPU,image_1000_15_9.png,17328
+CPU,image_1000_15_9.png,51211
+CUDA, image_1000_15_9.png,19004
+CUDA V2, image_1000_15_9.png,13340
+CUDA CPU V2, image_1000_15_9.png,11955
+CUDA CPU,image_1000_18_0.png,17989
+CPU,image_1000_18_0.png,54663
+CUDA, image_1000_18_0.png,19460
+CUDA V2, image_1000_18_0.png,14249
+CUDA CPU V2, image_1000_18_0.png,12608
+CUDA CPU,image_1000_18_1.png,21064
+CPU,image_1000_18_1.png,54242
+CUDA, image_1000_18_1.png,23967
+CUDA V2, image_1000_18_1.png,15424
+CUDA CPU V2, image_1000_18_1.png,12434
+CUDA CPU,image_1000_18_2.png,18305
+CPU,image_1000_18_2.png,54435
+CUDA, image_1000_18_2.png,20877
+CUDA V2, image_1000_18_2.png,14476
+CUDA CPU V2, image_1000_18_2.png,14058
+CUDA CPU,image_1000_18_3.png,17438
+CPU,image_1000_18_3.png,55343
+CUDA, image_1000_18_3.png,19884
+CUDA V2, image_1000_18_3.png,14410
+CUDA CPU V2, image_1000_18_3.png,12368
+CUDA CPU,image_1000_18_4.png,17491
+CPU,image_1000_18_4.png,56848
+CUDA, image_1000_18_4.png,20079
+CUDA V2, image_1000_18_4.png,13678
+CUDA CPU V2, image_1000_18_4.png,12607
+CUDA CPU,image_1000_18_5.png,19546
+CPU,image_1000_18_5.png,54227
+CUDA, image_1000_18_5.png,20593
+CUDA V2, image_1000_18_5.png,14763
+CUDA CPU V2, image_1000_18_5.png,14314
+CUDA CPU,image_1000_18_6.png,18608
+CPU,image_1000_18_6.png,54272
+CUDA, image_1000_18_6.png,20477
+CUDA V2, image_1000_18_6.png,15644
+CUDA CPU V2, image_1000_18_6.png,14081
+CUDA CPU,image_1000_18_7.png,20434
+CPU,image_1000_18_7.png,57376
+CUDA, image_1000_18_7.png,25118
+CUDA V2, image_1000_18_7.png,14104
+CUDA CPU V2, image_1000_18_7.png,12567
+CUDA CPU,image_1000_18_8.png,20592
+CPU,image_1000_18_8.png,54729
+CUDA, image_1000_18_8.png,20839
+CUDA V2, image_1000_18_8.png,14178
+CUDA CPU V2, image_1000_18_8.png,13005
+CUDA CPU,image_1000_18_9.png,19719
+CPU,image_1000_18_9.png,54300
+CUDA, image_1000_18_9.png,24237
+CUDA V2, image_1000_18_9.png,15798
+CUDA CPU V2, image_1000_18_9.png,12848
+CUDA CPU,image_1000_3_0.png,14693
+CPU,image_1000_3_0.png,25994
+CUDA, image_1000_3_0.png,16611
+CUDA V2, image_1000_3_0.png,10486
+CUDA CPU V2, image_1000_3_0.png,8636
+CUDA CPU,image_1000_3_1.png,15341
+CPU,image_1000_3_1.png,26216
+CUDA, image_1000_3_1.png,15273
+CUDA V2, image_1000_3_1.png,10324
+CUDA CPU V2, image_1000_3_1.png,8967
+CUDA CPU,image_1000_3_2.png,13409
+CPU,image_1000_3_2.png,25990
+CUDA, image_1000_3_2.png,14719
+CUDA V2, image_1000_3_2.png,10131
+CUDA CPU V2, image_1000_3_2.png,9300
+CUDA CPU,image_1000_3_3.png,12544
+CPU,image_1000_3_3.png,26049
+CUDA, image_1000_3_3.png,14765
+CUDA V2, image_1000_3_3.png,11216
+CUDA CPU V2, image_1000_3_3.png,8764
+CUDA CPU,image_1000_3_4.png,12961
+CPU,image_1000_3_4.png,26209
+CUDA, image_1000_3_4.png,14142
+CUDA V2, image_1000_3_4.png,10274
+CUDA CPU V2, image_1000_3_4.png,8484
+CUDA CPU,image_1000_3_5.png,13120
+CPU,image_1000_3_5.png,25938
+CUDA, image_1000_3_5.png,16010
+CUDA V2, image_1000_3_5.png,10454
+CUDA CPU V2, image_1000_3_5.png,8687
+CUDA CPU,image_1000_3_6.png,13120
+CPU,image_1000_3_6.png,29107
+CUDA, image_1000_3_6.png,15364
+CUDA V2, image_1000_3_6.png,9890
+CUDA CPU V2, image_1000_3_6.png,8679
+CUDA CPU,image_1000_3_7.png,13027
+CPU,image_1000_3_7.png,26565
+CUDA, image_1000_3_7.png,14618
+CUDA V2, image_1000_3_7.png,10034
+CUDA CPU V2, image_1000_3_7.png,8644
+CUDA CPU,image_1000_3_8.png,12758
+CPU,image_1000_3_8.png,26188
+CUDA, image_1000_3_8.png,14465
+CUDA V2, image_1000_3_8.png,10453
+CUDA CPU V2, image_1000_3_8.png,8851
+CUDA CPU,image_1000_3_9.png,14021
+CPU,image_1000_3_9.png,26457
+CUDA, image_1000_3_9.png,14343
+CUDA V2, image_1000_3_9.png,9912
+CUDA CPU V2, image_1000_3_9.png,8456
+CUDA CPU,image_1000_6_0.png,13972
+CPU,image_1000_6_0.png,31490
+CUDA, image_1000_6_0.png,14443
+CUDA V2, image_1000_6_0.png,10818
+CUDA CPU V2, image_1000_6_0.png,9320
+CUDA CPU,image_1000_6_1.png,15444
+CPU,image_1000_6_1.png,31737
+CUDA, image_1000_6_1.png,15385
+CUDA V2, image_1000_6_1.png,10312
+CUDA CPU V2, image_1000_6_1.png,10211
+CUDA CPU,image_1000_6_2.png,12747
+CPU,image_1000_6_2.png,31816
+CUDA, image_1000_6_2.png,14542
+CUDA V2, image_1000_6_2.png,11114
+CUDA CPU V2, image_1000_6_2.png,9602
+CUDA CPU,image_1000_6_3.png,12798
+CPU,image_1000_6_3.png,31710
+CUDA, image_1000_6_3.png,14934
+CUDA V2, image_1000_6_3.png,10575
+CUDA CPU V2, image_1000_6_3.png,9354
+CUDA CPU,image_1000_6_4.png,14735
+CPU,image_1000_6_4.png,32846
+CUDA, image_1000_6_4.png,14681
+CUDA V2, image_1000_6_4.png,10464
+CUDA CPU V2, image_1000_6_4.png,9523
+CUDA CPU,image_1000_6_5.png,14316
+CPU,image_1000_6_5.png,31546
+CUDA, image_1000_6_5.png,16213
+CUDA V2, image_1000_6_5.png,10945
+CUDA CPU V2, image_1000_6_5.png,9893
+CUDA CPU,image_1000_6_6.png,14817
+CPU,image_1000_6_6.png,36267
+CUDA, image_1000_6_6.png,16912
+CUDA V2, image_1000_6_6.png,10876
+CUDA CPU V2, image_1000_6_6.png,9406
+CUDA CPU,image_1000_6_7.png,14420
+CPU,image_1000_6_7.png,31833
+CUDA, image_1000_6_7.png,16151
+CUDA V2, image_1000_6_7.png,10713
+CUDA CPU V2, image_1000_6_7.png,9196
+CUDA CPU,image_1000_6_8.png,16202
+CPU,image_1000_6_8.png,31884
+CUDA, image_1000_6_8.png,15585
+CUDA V2, image_1000_6_8.png,11912
+CUDA CPU V2, image_1000_6_8.png,9746
+CUDA CPU,image_1000_6_9.png,13686
+CPU,image_1000_6_9.png,35628
+CUDA, image_1000_6_9.png,15020
+CUDA V2, image_1000_6_9.png,10962
+CUDA CPU V2, image_1000_6_9.png,9611
+CUDA CPU,image_1000_9_0.png,14949
+CPU,image_1000_9_0.png,37927
+CUDA, image_1000_9_0.png,17331
+CUDA V2, image_1000_9_0.png,11944
+CUDA CPU V2, image_1000_9_0.png,10329
+CUDA CPU,image_1000_9_1.png,18068
+CPU,image_1000_9_1.png,37501
+CUDA, image_1000_9_1.png,16739
+CUDA V2, image_1000_9_1.png,11272
+CUDA CPU V2, image_1000_9_1.png,10589
+CUDA CPU,image_1000_9_2.png,14966
+CPU,image_1000_9_2.png,37787
+CUDA, image_1000_9_2.png,16141
+CUDA V2, image_1000_9_2.png,11688
+CUDA CPU V2, image_1000_9_2.png,10428
+CUDA CPU,image_1000_9_3.png,14764
+CPU,image_1000_9_3.png,40268
+CUDA, image_1000_9_3.png,16259
+CUDA V2, image_1000_9_3.png,11459
+CUDA CPU V2, image_1000_9_3.png,10069
+CUDA CPU,image_1000_9_4.png,15398
+CPU,image_1000_9_4.png,37199
+CUDA, image_1000_9_4.png,17680
+CUDA V2, image_1000_9_4.png,11437
+CUDA CPU V2, image_1000_9_4.png,10286
+CUDA CPU,image_1000_9_5.png,17325
+CPU,image_1000_9_5.png,40454
+CUDA, image_1000_9_5.png,16822
+CUDA V2, image_1000_9_5.png,12340
+CUDA CPU V2, image_1000_9_5.png,10185
+CUDA CPU,image_1000_9_6.png,15440
+CPU,image_1000_9_6.png,37113
+CUDA, image_1000_9_6.png,16606
+CUDA V2, image_1000_9_6.png,11528
+CUDA CPU V2, image_1000_9_6.png,9941
+CUDA CPU,image_1000_9_7.png,15637
+CPU,image_1000_9_7.png,40934
+CUDA, image_1000_9_7.png,16818
+CUDA V2, image_1000_9_7.png,11689
+CUDA CPU V2, image_1000_9_7.png,10038
+CUDA CPU,image_1000_9_8.png,17391
+CPU,image_1000_9_8.png,37507
+CUDA, image_1000_9_8.png,16652
+CUDA V2, image_1000_9_8.png,12054
+CUDA CPU V2, image_1000_9_8.png,10202
+CUDA CPU,image_1000_9_9.png,14344
+CPU,image_1000_9_9.png,39024
+CUDA, image_1000_9_9.png,16433
+CUDA V2, image_1000_9_9.png,11343
+CUDA CPU V2, image_1000_9_9.png,10348
+CUDA CPU,image_100_0_0.png,1828
+CPU,image_100_0_0.png,294
+CUDA, image_100_0_0.png,1937
+CUDA V2, image_100_0_0.png,1706
+CUDA CPU V2, image_100_0_0.png,1500
+CUDA CPU,image_100_0_1.png,1944
+CPU,image_100_0_1.png,299
+CUDA, image_100_0_1.png,2999
+CUDA V2, image_100_0_1.png,1563
+CUDA CPU V2, image_100_0_1.png,1726
+CUDA CPU,image_100_0_2.png,1791
+CPU,image_100_0_2.png,288
+CUDA, image_100_0_2.png,1974
+CUDA V2, image_100_0_2.png,1656
+CUDA CPU V2, image_100_0_2.png,1627
+CUDA CPU,image_100_0_3.png,1813
+CPU,image_100_0_3.png,238
+CUDA, image_100_0_3.png,1877
+CUDA V2, image_100_0_3.png,1769
+CUDA CPU V2, image_100_0_3.png,1664
+CUDA CPU,image_100_0_4.png,2126
+CPU,image_100_0_4.png,302
+CUDA, image_100_0_4.png,1970
+CUDA V2, image_100_0_4.png,1491
+CUDA CPU V2, image_100_0_4.png,1591
+CUDA CPU,image_100_0_5.png,1851
+CPU,image_100_0_5.png,300
+CUDA, image_100_0_5.png,2086
+CUDA V2, image_100_0_5.png,1594
+CUDA CPU V2, image_100_0_5.png,1662
+CUDA CPU,image_100_0_6.png,1918
+CPU,image_100_0_6.png,313
+CUDA, image_100_0_6.png,1858
+CUDA V2, image_100_0_6.png,1682
+CUDA CPU V2, image_100_0_6.png,2146
+CUDA CPU,image_100_0_7.png,1905
+CPU,image_100_0_7.png,280
+CUDA, image_100_0_7.png,1615
+CUDA V2, image_100_0_7.png,1240
+CUDA CPU V2, image_100_0_7.png,1157
+CUDA CPU,image_100_0_8.png,1740
+CPU,image_100_0_8.png,295
+CUDA, image_100_0_8.png,1890
+CUDA V2, image_100_0_8.png,1285
+CUDA CPU V2, image_100_0_8.png,1183
+CUDA CPU,image_100_0_9.png,1727
+CPU,image_100_0_9.png,312
+CUDA, image_100_0_9.png,1761
+CUDA V2, image_100_0_9.png,1217
+CUDA CPU V2, image_100_0_9.png,1119
+CUDA CPU,image_100_12_0.png,2108
+CPU,image_100_12_0.png,586
+CUDA, image_100_12_0.png,1982
+CUDA V2, image_100_12_0.png,1416
+CUDA CPU V2, image_100_12_0.png,1312
+CUDA CPU,image_100_12_1.png,1995
+CPU,image_100_12_1.png,535
+CUDA, image_100_12_1.png,2002
+CUDA V2, image_100_12_1.png,1306
+CUDA CPU V2, image_100_12_1.png,1308
+CUDA CPU,image_100_12_2.png,1881
+CPU,image_100_12_2.png,605
+CUDA, image_100_12_2.png,2407
+CUDA V2, image_100_12_2.png,1429
+CUDA CPU V2, image_100_12_2.png,1281
+CUDA CPU,image_100_12_3.png,2070
+CPU,image_100_12_3.png,540
+CUDA, image_100_12_3.png,1882
+CUDA V2, image_100_12_3.png,1430
+CUDA CPU V2, image_100_12_3.png,1200
+CUDA CPU,image_100_12_4.png,2115
+CPU,image_100_12_4.png,583
+CUDA, image_100_12_4.png,2021
+CUDA V2, image_100_12_4.png,1437
+CUDA CPU V2, image_100_12_4.png,1187
+CUDA CPU,image_100_12_5.png,2017
+CPU,image_100_12_5.png,550
+CUDA, image_100_12_5.png,2282
+CUDA V2, image_100_12_5.png,1384
+CUDA CPU V2, image_100_12_5.png,1158
+CUDA CPU,image_100_12_6.png,1826
+CPU,image_100_12_6.png,566
+CUDA, image_100_12_6.png,2019
+CUDA V2, image_100_12_6.png,1371
+CUDA CPU V2, image_100_12_6.png,1267
+CUDA CPU,image_100_12_7.png,2119
+CPU,image_100_12_7.png,540
+CUDA, image_100_12_7.png,2823
+CUDA V2, image_100_12_7.png,1479
+CUDA CPU V2, image_100_12_7.png,1255
+CUDA CPU,image_100_12_8.png,2026
+CPU,image_100_12_8.png,597
+CUDA, image_100_12_8.png,2095
+CUDA V2, image_100_12_8.png,1461
+CUDA CPU V2, image_100_12_8.png,1166
+CUDA CPU,image_100_12_9.png,2326
+CPU,image_100_12_9.png,601
+CUDA, image_100_12_9.png,2208
+CUDA V2, image_100_12_9.png,1608
+CUDA CPU V2, image_100_12_9.png,1911
+CUDA CPU,image_100_15_0.png,2162
+CPU,image_100_15_0.png,597
+CUDA, image_100_15_0.png,2123
+CUDA V2, image_100_15_0.png,1331
+CUDA CPU V2, image_100_15_0.png,1528
+CUDA CPU,image_100_15_1.png,2032
+CPU,image_100_15_1.png,619
+CUDA, image_100_15_1.png,2200
+CUDA V2, image_100_15_1.png,1609
+CUDA CPU V2, image_100_15_1.png,1355
+CUDA CPU,image_100_15_2.png,2151
+CPU,image_100_15_2.png,556
+CUDA, image_100_15_2.png,1910
+CUDA V2, image_100_15_2.png,1473
+CUDA CPU V2, image_100_15_2.png,1443
+CUDA CPU,image_100_15_3.png,2331
+CPU,image_100_15_3.png,687
+CUDA, image_100_15_3.png,2172
+CUDA V2, image_100_15_3.png,1455
+CUDA CPU V2, image_100_15_3.png,1215
+CUDA CPU,image_100_15_4.png,2093
+CPU,image_100_15_4.png,629
+CUDA, image_100_15_4.png,2256
+CUDA V2, image_100_15_4.png,1319
+CUDA CPU V2, image_100_15_4.png,1194
+CUDA CPU,image_100_15_5.png,2130
+CPU,image_100_15_5.png,566
+CUDA, image_100_15_5.png,2223
+CUDA V2, image_100_15_5.png,1435
+CUDA CPU V2, image_100_15_5.png,1176
+CUDA CPU,image_100_15_6.png,1853
+CPU,image_100_15_6.png,632
+CUDA, image_100_15_6.png,2095
+CUDA V2, image_100_15_6.png,1334
+CUDA CPU V2, image_100_15_6.png,1289
+CUDA CPU,image_100_15_7.png,2125
+CPU,image_100_15_7.png,606
+CUDA, image_100_15_7.png,2161
+CUDA V2, image_100_15_7.png,1402
+CUDA CPU V2, image_100_15_7.png,1263
+CUDA CPU,image_100_15_8.png,2097
+CPU,image_100_15_8.png,631
+CUDA, image_100_15_8.png,2942
+CUDA V2, image_100_15_8.png,1447
+CUDA CPU V2, image_100_15_8.png,1519
+CUDA CPU,image_100_15_9.png,2290
+CPU,image_100_15_9.png,672
+CUDA, image_100_15_9.png,2166
+CUDA V2, image_100_15_9.png,1417
+CUDA CPU V2, image_100_15_9.png,1337
+CUDA CPU,image_100_18_0.png,2145
+CPU,image_100_18_0.png,673
+CUDA, image_100_18_0.png,2192
+CUDA V2, image_100_18_0.png,1476
+CUDA CPU V2, image_100_18_0.png,1256
+CUDA CPU,image_100_18_1.png,1981
+CPU,image_100_18_1.png,670
+CUDA, image_100_18_1.png,2196
+CUDA V2, image_100_18_1.png,1285
+CUDA CPU V2, image_100_18_1.png,1349
+CUDA CPU,image_100_18_2.png,2090
+CPU,image_100_18_2.png,581
+CUDA, image_100_18_2.png,2087
+CUDA V2, image_100_18_2.png,1483
+CUDA CPU V2, image_100_18_2.png,1456
+CUDA CPU,image_100_18_3.png,2227
+CPU,image_100_18_3.png,594
+CUDA, image_100_18_3.png,2043
+CUDA V2, image_100_18_3.png,1431
+CUDA CPU V2, image_100_18_3.png,1347
+CUDA CPU,image_100_18_4.png,2150
+CPU,image_100_18_4.png,695
+CUDA, image_100_18_4.png,2376
+CUDA V2, image_100_18_4.png,1467
+CUDA CPU V2, image_100_18_4.png,1068
+CUDA CPU,image_100_18_5.png,2059
+CPU,image_100_18_5.png,684
+CUDA, image_100_18_5.png,2350
+CUDA V2, image_100_18_5.png,1429
+CUDA CPU V2, image_100_18_5.png,1148
+CUDA CPU,image_100_18_6.png,2117
+CPU,image_100_18_6.png,681
+CUDA, image_100_18_6.png,2160
+CUDA V2, image_100_18_6.png,1309
+CUDA CPU V2, image_100_18_6.png,1087
+CUDA CPU,image_100_18_7.png,2016
+CPU,image_100_18_7.png,696
+CUDA, image_100_18_7.png,2189
+CUDA V2, image_100_18_7.png,1319
+CUDA CPU V2, image_100_18_7.png,1114
+CUDA CPU,image_100_18_8.png,2079
+CPU,image_100_18_8.png,581
+CUDA, image_100_18_8.png,2120
+CUDA V2, image_100_18_8.png,1342
+CUDA CPU V2, image_100_18_8.png,1153
+CUDA CPU,image_100_18_9.png,2216
+CPU,image_100_18_9.png,681
+CUDA, image_100_18_9.png,2072
+CUDA V2, image_100_18_9.png,2114
+CUDA CPU V2, image_100_18_9.png,1412
+CUDA CPU,image_100_3_0.png,2170
+CPU,image_100_3_0.png,362
+CUDA, image_100_3_0.png,2446
+CUDA V2, image_100_3_0.png,1470
+CUDA CPU V2, image_100_3_0.png,1580
+CUDA CPU,image_100_3_1.png,2232
+CPU,image_100_3_1.png,372
+CUDA, image_100_3_1.png,2290
+CUDA V2, image_100_3_1.png,1630
+CUDA CPU V2, image_100_3_1.png,1468
+CUDA CPU,image_100_3_2.png,2030
+CPU,image_100_3_2.png,318
+CUDA, image_100_3_2.png,2291
+CUDA V2, image_100_3_2.png,1743
+CUDA CPU V2, image_100_3_2.png,1522
+CUDA CPU,image_100_3_3.png,2143
+CPU,image_100_3_3.png,432
+CUDA, image_100_3_3.png,2350
+CUDA V2, image_100_3_3.png,1328
+CUDA CPU V2, image_100_3_3.png,1619
+CUDA CPU,image_100_3_4.png,2193
+CPU,image_100_3_4.png,366
+CUDA, image_100_3_4.png,2297
+CUDA V2, image_100_3_4.png,1279
+CUDA CPU V2, image_100_3_4.png,1467
+CUDA CPU,image_100_3_5.png,2361
+CPU,image_100_3_5.png,308
+CUDA, image_100_3_5.png,2430
+CUDA V2, image_100_3_5.png,1487
+CUDA CPU V2, image_100_3_5.png,1380
+CUDA CPU,image_100_3_6.png,2139
+CPU,image_100_3_6.png,339
+CUDA, image_100_3_6.png,2316
+CUDA V2, image_100_3_6.png,1515
+CUDA CPU V2, image_100_3_6.png,1346
+CUDA CPU,image_100_3_7.png,3197
+CPU,image_100_3_7.png,367
+CUDA, image_100_3_7.png,2430
+CUDA V2, image_100_3_7.png,1320
+CUDA CPU V2, image_100_3_7.png,1292
+CUDA CPU,image_100_3_8.png,2197
+CPU,image_100_3_8.png,347
+CUDA, image_100_3_8.png,2447
+CUDA V2, image_100_3_8.png,1403
+CUDA CPU V2, image_100_3_8.png,1252
+CUDA CPU,image_100_3_9.png,2167
+CPU,image_100_3_9.png,275
+CUDA, image_100_3_9.png,2326
+CUDA V2, image_100_3_9.png,1499
+CUDA CPU V2, image_100_3_9.png,1298
+CUDA CPU,image_100_6_0.png,2258
+CPU,image_100_6_0.png,434
+CUDA, image_100_6_0.png,2543
+CUDA V2, image_100_6_0.png,1692
+CUDA CPU V2, image_100_6_0.png,1434
+CUDA CPU,image_100_6_1.png,2086
+CPU,image_100_6_1.png,382
+CUDA, image_100_6_1.png,2178
+CUDA V2, image_100_6_1.png,1550
+CUDA CPU V2, image_100_6_1.png,1423
+CUDA CPU,image_100_6_2.png,2304
+CPU,image_100_6_2.png,432
+CUDA, image_100_6_2.png,2536
+CUDA V2, image_100_6_2.png,1491
+CUDA CPU V2, image_100_6_2.png,1334
+CUDA CPU,image_100_6_3.png,2184
+CPU,image_100_6_3.png,350
+CUDA, image_100_6_3.png,2187
+CUDA V2, image_100_6_3.png,1975
+CUDA CPU V2, image_100_6_3.png,1316
+CUDA CPU,image_100_6_4.png,2083
+CPU,image_100_6_4.png,333
+CUDA, image_100_6_4.png,2497
+CUDA V2, image_100_6_4.png,2208
+CUDA CPU V2, image_100_6_4.png,1510
+CUDA CPU,image_100_6_5.png,2267
+CPU,image_100_6_5.png,357
+CUDA, image_100_6_5.png,2572
+CUDA V2, image_100_6_5.png,1612
+CUDA CPU V2, image_100_6_5.png,1280
+CUDA CPU,image_100_6_6.png,2269
+CPU,image_100_6_6.png,363
+CUDA, image_100_6_6.png,2501
+CUDA V2, image_100_6_6.png,1672
+CUDA CPU V2, image_100_6_6.png,1458
+CUDA CPU,image_100_6_7.png,2267
+CPU,image_100_6_7.png,441
+CUDA, image_100_6_7.png,2417
+CUDA V2, image_100_6_7.png,1663
+CUDA CPU V2, image_100_6_7.png,1606
+CUDA CPU,image_100_6_8.png,2966
+CPU,image_100_6_8.png,452
+CUDA, image_100_6_8.png,2210
+CUDA V2, image_100_6_8.png,1568
+CUDA CPU V2, image_100_6_8.png,1326
+CUDA CPU,image_100_6_9.png,2230
+CPU,image_100_6_9.png,315
+CUDA, image_100_6_9.png,2285
+CUDA V2, image_100_6_9.png,1599
+CUDA CPU V2, image_100_6_9.png,1459
+CUDA CPU,image_100_9_0.png,2303
+CPU,image_100_9_0.png,399
+CUDA, image_100_9_0.png,2768
+CUDA V2, image_100_9_0.png,1453
+CUDA CPU V2, image_100_9_0.png,1515
+CUDA CPU,image_100_9_1.png,3188
+CPU,image_100_9_1.png,515
+CUDA, image_100_9_1.png,2420
+CUDA V2, image_100_9_1.png,2270
+CUDA CPU V2, image_100_9_1.png,1592
+CUDA CPU,image_100_9_2.png,2460
+CPU,image_100_9_2.png,428
+CUDA, image_100_9_2.png,2558
+CUDA V2, image_100_9_2.png,1595
+CUDA CPU V2, image_100_9_2.png,1441
+CUDA CPU,image_100_9_3.png,2271
+CPU,image_100_9_3.png,383
+CUDA, image_100_9_3.png,2473
+CUDA V2, image_100_9_3.png,1620
+CUDA CPU V2, image_100_9_3.png,1533
+CUDA CPU,image_100_9_4.png,2313
+CPU,image_100_9_4.png,522
+CUDA, image_100_9_4.png,2462
+CUDA V2, image_100_9_4.png,1533
+CUDA CPU V2, image_100_9_4.png,1381
+CUDA CPU,image_100_9_5.png,2687
+CPU,image_100_9_5.png,483
+CUDA, image_100_9_5.png,2634
+CUDA V2, image_100_9_5.png,1461
+CUDA CPU V2, image_100_9_5.png,1399
+CUDA CPU,image_100_9_6.png,2278
+CPU,image_100_9_6.png,448
+CUDA, image_100_9_6.png,2341
+CUDA V2, image_100_9_6.png,1489
+CUDA CPU V2, image_100_9_6.png,1552
+CUDA CPU,image_100_9_7.png,2188
+CPU,image_100_9_7.png,419
+CUDA, image_100_9_7.png,2350
+CUDA V2, image_100_9_7.png,1834
+CUDA CPU V2, image_100_9_7.png,1392
+CUDA CPU,image_100_9_8.png,2211
+CPU,image_100_9_8.png,382
+CUDA, image_100_9_8.png,2440
+CUDA V2, image_100_9_8.png,1491
+CUDA CPU V2, image_100_9_8.png,1244
+CUDA CPU,image_100_9_9.png,2659
+CPU,image_100_9_9.png,521
+CUDA, image_100_9_9.png,2394
+CUDA V2, image_100_9_9.png,1489
+CUDA CPU V2, image_100_9_9.png,1666
+CUDA CPU,image_1500_0_0.png,21513
+CPU,image_1500_0_0.png,44155
+CUDA, image_1500_0_0.png,22725
+CUDA V2, image_1500_0_0.png,12799
+CUDA CPU V2, image_1500_0_0.png,11574
+CUDA CPU,image_1500_0_1.png,16564
+CPU,image_1500_0_1.png,48420
+CUDA, image_1500_0_1.png,18869
+CUDA V2, image_1500_0_1.png,13087
+CUDA CPU V2, image_1500_0_1.png,11314
+CUDA CPU,image_1500_0_2.png,15625
+CPU,image_1500_0_2.png,44480
+CUDA, image_1500_0_2.png,16810
+CUDA V2, image_1500_0_2.png,11153
+CUDA CPU V2, image_1500_0_2.png,10070
+CUDA CPU,image_1500_0_3.png,12987
+CPU,image_1500_0_3.png,47225
+CUDA, image_1500_0_3.png,11925
+CUDA V2, image_1500_0_3.png,8768
+CUDA CPU V2, image_1500_0_3.png,10088
+CUDA CPU,image_1500_0_4.png,13293
+CPU,image_1500_0_4.png,44728
+CUDA, image_1500_0_4.png,11954
+CUDA V2, image_1500_0_4.png,9068
+CUDA CPU V2, image_1500_0_4.png,10385
+CUDA CPU,image_1500_0_5.png,13878
+CPU,image_1500_0_5.png,47315
+CUDA, image_1500_0_5.png,16717
+CUDA V2, image_1500_0_5.png,10075
+CUDA CPU V2, image_1500_0_5.png,10157
+CUDA CPU,image_1500_0_6.png,13343
+CPU,image_1500_0_6.png,44848
+CUDA, image_1500_0_6.png,12358
+CUDA V2, image_1500_0_6.png,8816
+CUDA CPU V2, image_1500_0_6.png,9802
+CUDA CPU,image_1500_0_7.png,15186
+CPU,image_1500_0_7.png,43845
+CUDA, image_1500_0_7.png,12818
+CUDA V2, image_1500_0_7.png,10731
+CUDA CPU V2, image_1500_0_7.png,11035
+CUDA CPU,image_1500_0_8.png,15086
+CPU,image_1500_0_8.png,44886
+CUDA, image_1500_0_8.png,17464
+CUDA V2, image_1500_0_8.png,9767
+CUDA CPU V2, image_1500_0_8.png,10273
+CUDA CPU,image_1500_0_9.png,13450
+CPU,image_1500_0_9.png,44540
+CUDA, image_1500_0_9.png,12834
+CUDA V2, image_1500_0_9.png,9192
+CUDA CPU V2, image_1500_0_9.png,10144
+CUDA CPU,image_1500_12_0.png,24788
+CPU,image_1500_12_0.png,97164
+CUDA, image_1500_12_0.png,30322
+CUDA V2, image_1500_12_0.png,22891
+CUDA CPU V2, image_1500_12_0.png,24513
+CUDA CPU,image_1500_12_1.png,31821
+CPU,image_1500_12_1.png,98119
+CUDA, image_1500_12_1.png,37512
+CUDA V2, image_1500_12_1.png,25012
+CUDA CPU V2, image_1500_12_1.png,23353
+CUDA CPU,image_1500_12_2.png,30019
+CPU,image_1500_12_2.png,97961
+CUDA, image_1500_12_2.png,38332
+CUDA V2, image_1500_12_2.png,24836
+CUDA CPU V2, image_1500_12_2.png,23051
+CUDA CPU,image_1500_12_3.png,30714
+CPU,image_1500_12_3.png,97646
+CUDA, image_1500_12_3.png,39260
+CUDA V2, image_1500_12_3.png,24628
+CUDA CPU V2, image_1500_12_3.png,23069
+CUDA CPU,image_1500_12_4.png,31888
+CPU,image_1500_12_4.png,98591
+CUDA, image_1500_12_4.png,38852
+CUDA V2, image_1500_12_4.png,25129
+CUDA CPU V2, image_1500_12_4.png,24032
+CUDA CPU,image_1500_12_5.png,32109
+CPU,image_1500_12_5.png,100312
+CUDA, image_1500_12_5.png,39545
+CUDA V2, image_1500_12_5.png,24705
+CUDA CPU V2, image_1500_12_5.png,23433
+CUDA CPU,image_1500_12_6.png,31558
+CPU,image_1500_12_6.png,99206
+CUDA, image_1500_12_6.png,39410
+CUDA V2, image_1500_12_6.png,24487
+CUDA CPU V2, image_1500_12_6.png,23530
+CUDA CPU,image_1500_12_7.png,31716
+CPU,image_1500_12_7.png,100671
+CUDA, image_1500_12_7.png,41969
+CUDA V2, image_1500_12_7.png,25141
+CUDA CPU V2, image_1500_12_7.png,22985
+CUDA CPU,image_1500_12_8.png,30704
+CPU,image_1500_12_8.png,100305
+CUDA, image_1500_12_8.png,38459
+CUDA V2, image_1500_12_8.png,24292
+CUDA CPU V2, image_1500_12_8.png,23359
+CUDA CPU,image_1500_12_9.png,32584
+CPU,image_1500_12_9.png,96889
+CUDA, image_1500_12_9.png,38701
+CUDA V2, image_1500_12_9.png,24497
+CUDA CPU V2, image_1500_12_9.png,23807
+CUDA CPU,image_1500_15_0.png,34078
+CPU,image_1500_15_0.png,110880
+CUDA, image_1500_15_0.png,43943
+CUDA V2, image_1500_15_0.png,27194
+CUDA CPU V2, image_1500_15_0.png,25194
+CUDA CPU,image_1500_15_1.png,33174
+CPU,image_1500_15_1.png,110291
+CUDA, image_1500_15_1.png,44905
+CUDA V2, image_1500_15_1.png,25833
+CUDA CPU V2, image_1500_15_1.png,24753
+CUDA CPU,image_1500_15_2.png,36350
+CPU,image_1500_15_2.png,112598
+CUDA, image_1500_15_2.png,35495
+CUDA V2, image_1500_15_2.png,26012
+CUDA CPU V2, image_1500_15_2.png,24357
+CUDA CPU,image_1500_15_3.png,30939
+CPU,image_1500_15_3.png,112969
+CUDA, image_1500_15_3.png,39557
+CUDA V2, image_1500_15_3.png,26050
+CUDA CPU V2, image_1500_15_3.png,24401
+CUDA CPU,image_1500_15_4.png,34835
+CPU,image_1500_15_4.png,113363
+CUDA, image_1500_15_4.png,43130
+CUDA V2, image_1500_15_4.png,25721
+CUDA CPU V2, image_1500_15_4.png,25028
+CUDA CPU,image_1500_15_5.png,33722
+CPU,image_1500_15_5.png,111018
+CUDA, image_1500_15_5.png,40311
+CUDA V2, image_1500_15_5.png,26899
+CUDA CPU V2, image_1500_15_5.png,26423
+CUDA CPU,image_1500_15_6.png,33038
+CPU,image_1500_15_6.png,110144
+CUDA, image_1500_15_6.png,44670
+CUDA V2, image_1500_15_6.png,26016
+CUDA CPU V2, image_1500_15_6.png,24788
+CUDA CPU,image_1500_15_7.png,31537
+CPU,image_1500_15_7.png,111515
+CUDA, image_1500_15_7.png,40922
+CUDA V2, image_1500_15_7.png,26384
+CUDA CPU V2, image_1500_15_7.png,24701
+CUDA CPU,image_1500_15_8.png,31683
+CPU,image_1500_15_8.png,111534
+CUDA, image_1500_15_8.png,34685
+CUDA V2, image_1500_15_8.png,25498
+CUDA CPU V2, image_1500_15_8.png,24084
+CUDA CPU,image_1500_15_9.png,30421
+CPU,image_1500_15_9.png,114872
+CUDA, image_1500_15_9.png,42482
+CUDA V2, image_1500_15_9.png,26247
+CUDA CPU V2, image_1500_15_9.png,24791
+CUDA CPU,image_1500_18_0.png,34412
+CPU,image_1500_18_0.png,125559
+CUDA, image_1500_18_0.png,45605
+CUDA V2, image_1500_18_0.png,27647
+CUDA CPU V2, image_1500_18_0.png,27046
+CUDA CPU,image_1500_18_1.png,34049
+CPU,image_1500_18_1.png,123217
+CUDA, image_1500_18_1.png,46303
+CUDA V2, image_1500_18_1.png,26783
+CUDA CPU V2, image_1500_18_1.png,25824
+CUDA CPU,image_1500_18_2.png,33783
+CPU,image_1500_18_2.png,125157
+CUDA, image_1500_18_2.png,45492
+CUDA V2, image_1500_18_2.png,26483
+CUDA CPU V2, image_1500_18_2.png,25431
+CUDA CPU,image_1500_18_3.png,32664
+CPU,image_1500_18_3.png,125233
+CUDA, image_1500_18_3.png,43163
+CUDA V2, image_1500_18_3.png,26681
+CUDA CPU V2, image_1500_18_3.png,26626
+CUDA CPU,image_1500_18_4.png,34233
+CPU,image_1500_18_4.png,122892
+CUDA, image_1500_18_4.png,46362
+CUDA V2, image_1500_18_4.png,28977
+CUDA CPU V2, image_1500_18_4.png,26241
+CUDA CPU,image_1500_18_5.png,33640
+CPU,image_1500_18_5.png,126652
+CUDA, image_1500_18_5.png,47089
+CUDA V2, image_1500_18_5.png,26819
+CUDA CPU V2, image_1500_18_5.png,25626
+CUDA CPU,image_1500_18_6.png,32535
+CPU,image_1500_18_6.png,125713
+CUDA, image_1500_18_6.png,44451
+CUDA V2, image_1500_18_6.png,27161
+CUDA CPU V2, image_1500_18_6.png,25841
+CUDA CPU,image_1500_18_7.png,35325
+CPU,image_1500_18_7.png,124127
+CUDA, image_1500_18_7.png,37637
+CUDA V2, image_1500_18_7.png,26993
+CUDA CPU V2, image_1500_18_7.png,27506
+CUDA CPU,image_1500_18_8.png,34783
+CPU,image_1500_18_8.png,123469
+CUDA, image_1500_18_8.png,42521
+CUDA V2, image_1500_18_8.png,26763
+CUDA CPU V2, image_1500_18_8.png,26091
+CUDA CPU,image_1500_18_9.png,36618
+CPU,image_1500_18_9.png,125594
+CUDA, image_1500_18_9.png,45697
+CUDA V2, image_1500_18_9.png,28527
+CUDA CPU V2, image_1500_18_9.png,25774
+CUDA CPU,image_1500_3_0.png,25077
+CPU,image_1500_3_0.png,62627
+CUDA, image_1500_3_0.png,27044
+CUDA V2, image_1500_3_0.png,19572
+CUDA CPU V2, image_1500_3_0.png,17071
+CUDA CPU,image_1500_3_1.png,22696
+CPU,image_1500_3_1.png,58083
+CUDA, image_1500_3_1.png,24063
+CUDA V2, image_1500_3_1.png,18581
+CUDA CPU V2, image_1500_3_1.png,16188
+CUDA CPU,image_1500_3_2.png,21064
+CPU,image_1500_3_2.png,58839
+CUDA, image_1500_3_2.png,22615
+CUDA V2, image_1500_3_2.png,15481
+CUDA CPU V2, image_1500_3_2.png,15149
+CUDA CPU,image_1500_3_3.png,20169
+CPU,image_1500_3_3.png,64002
+CUDA, image_1500_3_3.png,18510
+CUDA V2, image_1500_3_3.png,15216
+CUDA CPU V2, image_1500_3_3.png,15325
+CUDA CPU,image_1500_3_4.png,19439
+CPU,image_1500_3_4.png,58663
+CUDA, image_1500_3_4.png,25897
+CUDA V2, image_1500_3_4.png,19762
+CUDA CPU V2, image_1500_3_4.png,17163
+CUDA CPU,image_1500_3_5.png,24360
+CPU,image_1500_3_5.png,59267
+CUDA, image_1500_3_5.png,24563
+CUDA V2, image_1500_3_5.png,18062
+CUDA CPU V2, image_1500_3_5.png,16740
+CUDA CPU,image_1500_3_6.png,24904
+CPU,image_1500_3_6.png,59204
+CUDA, image_1500_3_6.png,23461
+CUDA V2, image_1500_3_6.png,16867
+CUDA CPU V2, image_1500_3_6.png,16307
+CUDA CPU,image_1500_3_7.png,20279
+CPU,image_1500_3_7.png,59629
+CUDA, image_1500_3_7.png,23579
+CUDA V2, image_1500_3_7.png,15522
+CUDA CPU V2, image_1500_3_7.png,15141
+CUDA CPU,image_1500_3_8.png,19377
+CPU,image_1500_3_8.png,58165
+CUDA, image_1500_3_8.png,18576
+CUDA V2, image_1500_3_8.png,14598
+CUDA CPU V2, image_1500_3_8.png,15130
+CUDA CPU,image_1500_3_9.png,22608
+CPU,image_1500_3_9.png,59210
+CUDA, image_1500_3_9.png,24295
+CUDA V2, image_1500_3_9.png,18033
+CUDA CPU V2, image_1500_3_9.png,16620
+CUDA CPU,image_1500_6_0.png,26032
+CPU,image_1500_6_0.png,74160
+CUDA, image_1500_6_0.png,26283
+CUDA V2, image_1500_6_0.png,20572
+CUDA CPU V2, image_1500_6_0.png,18461
+CUDA CPU,image_1500_6_1.png,25846
+CPU,image_1500_6_1.png,71402
+CUDA, image_1500_6_1.png,26078
+CUDA V2, image_1500_6_1.png,20367
+CUDA CPU V2, image_1500_6_1.png,18597
+CUDA CPU,image_1500_6_2.png,23715
+CPU,image_1500_6_2.png,71699
+CUDA, image_1500_6_2.png,24483
+CUDA V2, image_1500_6_2.png,16162
+CUDA CPU V2, image_1500_6_2.png,18425
+CUDA CPU,image_1500_6_3.png,21394
+CPU,image_1500_6_3.png,71030
+CUDA, image_1500_6_3.png,20308
+CUDA V2, image_1500_6_3.png,16000
+CUDA CPU V2, image_1500_6_3.png,17831
+CUDA CPU,image_1500_6_4.png,24637
+CPU,image_1500_6_4.png,74440
+CUDA, image_1500_6_4.png,29918
+CUDA V2, image_1500_6_4.png,20420
+CUDA CPU V2, image_1500_6_4.png,19433
+CUDA CPU,image_1500_6_5.png,25228
+CPU,image_1500_6_5.png,74886
+CUDA, image_1500_6_5.png,27410
+CUDA V2, image_1500_6_5.png,20148
+CUDA CPU V2, image_1500_6_5.png,19019
+CUDA CPU,image_1500_6_6.png,23734
+CPU,image_1500_6_6.png,71854
+CUDA, image_1500_6_6.png,26546
+CUDA V2, image_1500_6_6.png,19954
+CUDA CPU V2, image_1500_6_6.png,19563
+CUDA CPU,image_1500_6_7.png,25097
+CPU,image_1500_6_7.png,71046
+CUDA, image_1500_6_7.png,25632
+CUDA V2, image_1500_6_7.png,19399
+CUDA CPU V2, image_1500_6_7.png,20957
+CUDA CPU,image_1500_6_8.png,23902
+CPU,image_1500_6_8.png,72155
+CUDA, image_1500_6_8.png,29361
+CUDA V2, image_1500_6_8.png,20264
+CUDA CPU V2, image_1500_6_8.png,19261
+CUDA CPU,image_1500_6_9.png,26551
+CPU,image_1500_6_9.png,71794
+CUDA, image_1500_6_9.png,27054
+CUDA V2, image_1500_6_9.png,19499
+CUDA CPU V2, image_1500_6_9.png,18669
+CUDA CPU,image_1500_9_0.png,28640
+CPU,image_1500_9_0.png,88126
+CUDA, image_1500_9_0.png,27670
+CUDA V2, image_1500_9_0.png,20744
+CUDA CPU V2, image_1500_9_0.png,20385
+CUDA CPU,image_1500_9_1.png,24744
+CPU,image_1500_9_1.png,88423
+CUDA, image_1500_9_1.png,26858
+CUDA V2, image_1500_9_1.png,20807
+CUDA CPU V2, image_1500_9_1.png,19993
+CUDA CPU,image_1500_9_2.png,25488
+CPU,image_1500_9_2.png,87117
+CUDA, image_1500_9_2.png,27108
+CUDA V2, image_1500_9_2.png,21278
+CUDA CPU V2, image_1500_9_2.png,20510
+CUDA CPU,image_1500_9_3.png,28449
+CPU,image_1500_9_3.png,86451
+CUDA, image_1500_9_3.png,31497
+CUDA V2, image_1500_9_3.png,22441
+CUDA CPU V2, image_1500_9_3.png,21087
+CUDA CPU,image_1500_9_4.png,27403
+CPU,image_1500_9_4.png,85588
+CUDA, image_1500_9_4.png,31083
+CUDA V2, image_1500_9_4.png,21957
+CUDA CPU V2, image_1500_9_4.png,20696
+CUDA CPU,image_1500_9_5.png,29021
+CPU,image_1500_9_5.png,84381
+CUDA, image_1500_9_5.png,30461
+CUDA V2, image_1500_9_5.png,22146
+CUDA CPU V2, image_1500_9_5.png,21416
+CUDA CPU,image_1500_9_6.png,27182
+CPU,image_1500_9_6.png,84228
+CUDA, image_1500_9_6.png,29291
+CUDA V2, image_1500_9_6.png,22719
+CUDA CPU V2, image_1500_9_6.png,20529
+CUDA CPU,image_1500_9_7.png,25791
+CPU,image_1500_9_7.png,84526
+CUDA, image_1500_9_7.png,27987
+CUDA V2, image_1500_9_7.png,21517
+CUDA CPU V2, image_1500_9_7.png,21277
+CUDA CPU,image_1500_9_8.png,25421
+CPU,image_1500_9_8.png,84643
+CUDA, image_1500_9_8.png,26732
+CUDA V2, image_1500_9_8.png,17657
+CUDA CPU V2, image_1500_9_8.png,18843
+CUDA CPU,image_1500_9_9.png,24766
+CPU,image_1500_9_9.png,84496
+CUDA, image_1500_9_9.png,22300
+CUDA V2, image_1500_9_9.png,19147
+CUDA CPU V2, image_1500_9_9.png,19860
+CUDA CPU,image_2000_0_0.png,22615
+CPU,image_2000_0_0.png,81783
+CUDA, image_2000_0_0.png,28737
+CUDA V2, image_2000_0_0.png,17974
+CUDA CPU V2, image_2000_0_0.png,16808
+CUDA CPU,image_2000_0_1.png,20407
+CPU,image_2000_0_1.png,81243
+CUDA, image_2000_0_1.png,18796
+CUDA V2, image_2000_0_1.png,13918
+CUDA CPU V2, image_2000_0_1.png,16266
+CUDA CPU,image_2000_0_2.png,20347
+CPU,image_2000_0_2.png,78555
+CUDA, image_2000_0_2.png,18875
+CUDA V2, image_2000_0_2.png,14179
+CUDA CPU V2, image_2000_0_2.png,16412
+CUDA CPU,image_2000_0_3.png,23145
+CPU,image_2000_0_3.png,78043
+CUDA, image_2000_0_3.png,24331
+CUDA V2, image_2000_0_3.png,19490
+CUDA CPU V2, image_2000_0_3.png,17925
+CUDA CPU,image_2000_0_4.png,22919
+CPU,image_2000_0_4.png,78470
+CUDA, image_2000_0_4.png,22631
+CUDA V2, image_2000_0_4.png,16542
+CUDA CPU V2, image_2000_0_4.png,16637
+CUDA CPU,image_2000_0_5.png,19396
+CPU,image_2000_0_5.png,82050
+CUDA, image_2000_0_5.png,17128
+CUDA V2, image_2000_0_5.png,13166
+CUDA CPU V2, image_2000_0_5.png,15851
+CUDA CPU,image_2000_0_6.png,23548
+CPU,image_2000_0_6.png,80488
+CUDA, image_2000_0_6.png,24759
+CUDA V2, image_2000_0_6.png,14097
+CUDA CPU V2, image_2000_0_6.png,16223
+CUDA CPU,image_2000_0_7.png,21871
+CPU,image_2000_0_7.png,78323
+CUDA, image_2000_0_7.png,18986
+CUDA V2, image_2000_0_7.png,14112
+CUDA CPU V2, image_2000_0_7.png,17500
+CUDA CPU,image_2000_0_8.png,19858
+CPU,image_2000_0_8.png,78465
+CUDA, image_2000_0_8.png,18145
+CUDA V2, image_2000_0_8.png,13616
+CUDA CPU V2, image_2000_0_8.png,16174
+CUDA CPU,image_2000_0_9.png,21398
+CPU,image_2000_0_9.png,82730
+CUDA, image_2000_0_9.png,26295
+CUDA V2, image_2000_0_9.png,14128
+CUDA CPU V2, image_2000_0_9.png,16416
+CUDA CPU,image_2000_12_0.png,40146
+CPU,image_2000_12_0.png,176554
+CUDA, image_2000_12_0.png,56171
+CUDA V2, image_2000_12_0.png,41125
+CUDA CPU V2, image_2000_12_0.png,39099
+CUDA CPU,image_2000_12_1.png,48054
+CPU,image_2000_12_1.png,175963
+CUDA, image_2000_12_1.png,62374
+CUDA V2, image_2000_12_1.png,40641
+CUDA CPU V2, image_2000_12_1.png,38571
+CUDA CPU,image_2000_12_2.png,48140
+CPU,image_2000_12_2.png,175408
+CUDA, image_2000_12_2.png,60919
+CUDA V2, image_2000_12_2.png,39257
+CUDA CPU V2, image_2000_12_2.png,40079
+CUDA CPU,image_2000_12_3.png,46968
+CPU,image_2000_12_3.png,174590
+CUDA, image_2000_12_3.png,59943
+CUDA V2, image_2000_12_3.png,39733
+CUDA CPU V2, image_2000_12_3.png,38629
+CUDA CPU,image_2000_12_4.png,51351
+CPU,image_2000_12_4.png,172346
+CUDA, image_2000_12_4.png,63881
+CUDA V2, image_2000_12_4.png,39289
+CUDA CPU V2, image_2000_12_4.png,38423
+CUDA CPU,image_2000_12_5.png,48366
+CPU,image_2000_12_5.png,174282
+CUDA, image_2000_12_5.png,63335
+CUDA V2, image_2000_12_5.png,39180
+CUDA CPU V2, image_2000_12_5.png,38208
+CUDA CPU,image_2000_12_6.png,48408
+CPU,image_2000_12_6.png,175799
+CUDA, image_2000_12_6.png,61542
+CUDA V2, image_2000_12_6.png,42546
+CUDA CPU V2, image_2000_12_6.png,38775
+CUDA CPU,image_2000_12_7.png,49142
+CPU,image_2000_12_7.png,176390
+CUDA, image_2000_12_7.png,63869
+CUDA V2, image_2000_12_7.png,39333
+CUDA CPU V2, image_2000_12_7.png,39270
+CUDA CPU,image_2000_12_8.png,47257
+CPU,image_2000_12_8.png,174289
+CUDA, image_2000_12_8.png,62859
+CUDA V2, image_2000_12_8.png,39397
+CUDA CPU V2, image_2000_12_8.png,38745
+CUDA CPU,image_2000_12_9.png,51049
+CPU,image_2000_12_9.png,175354
+CUDA, image_2000_12_9.png,60394
+CUDA V2, image_2000_12_9.png,39920
+CUDA CPU V2, image_2000_12_9.png,37987
+CUDA CPU,image_2000_15_0.png,51563
+CPU,image_2000_15_0.png,198258
+CUDA, image_2000_15_0.png,65705
+CUDA V2, image_2000_15_0.png,41746
+CUDA CPU V2, image_2000_15_0.png,40316
+CUDA CPU,image_2000_15_1.png,52576
+CPU,image_2000_15_1.png,198128
+CUDA, image_2000_15_1.png,65828
+CUDA V2, image_2000_15_1.png,42266
+CUDA CPU V2, image_2000_15_1.png,40170
+CUDA CPU,image_2000_15_2.png,53073
+CPU,image_2000_15_2.png,196702
+CUDA, image_2000_15_2.png,66333
+CUDA V2, image_2000_15_2.png,41830
+CUDA CPU V2, image_2000_15_2.png,40360
+CUDA CPU,image_2000_15_3.png,51822
+CPU,image_2000_15_3.png,197403
+CUDA, image_2000_15_3.png,67212
+CUDA V2, image_2000_15_3.png,41553
+CUDA CPU V2, image_2000_15_3.png,40569
+CUDA CPU,image_2000_15_4.png,51957
+CPU,image_2000_15_4.png,208941
+CUDA, image_2000_15_4.png,63598
+CUDA V2, image_2000_15_4.png,41956
+CUDA CPU V2, image_2000_15_4.png,40758
+CUDA CPU,image_2000_15_5.png,52066
+CPU,image_2000_15_5.png,196176
+CUDA, image_2000_15_5.png,65448
+CUDA V2, image_2000_15_5.png,41829
+CUDA CPU V2, image_2000_15_5.png,40685
+CUDA CPU,image_2000_15_6.png,53270
+CPU,image_2000_15_6.png,197785
+CUDA, image_2000_15_6.png,65752
+CUDA V2, image_2000_15_6.png,41312
+CUDA CPU V2, image_2000_15_6.png,40702
+CUDA CPU,image_2000_15_7.png,50286
+CPU,image_2000_15_7.png,197238
+CUDA, image_2000_15_7.png,65906
+CUDA V2, image_2000_15_7.png,41441
+CUDA CPU V2, image_2000_15_7.png,40559
+CUDA CPU,image_2000_15_8.png,51515
+CPU,image_2000_15_8.png,198881
+CUDA, image_2000_15_8.png,65589
+CUDA V2, image_2000_15_8.png,41866
+CUDA CPU V2, image_2000_15_8.png,40765
+CUDA CPU,image_2000_15_9.png,51847
+CPU,image_2000_15_9.png,197931
+CUDA, image_2000_15_9.png,66233
+CUDA V2, image_2000_15_9.png,41367
+CUDA CPU V2, image_2000_15_9.png,40534
+CUDA CPU,image_2000_18_0.png,54720
+CPU,image_2000_18_0.png,221941
+CUDA, image_2000_18_0.png,66452
+CUDA V2, image_2000_18_0.png,44178
+CUDA CPU V2, image_2000_18_0.png,42688
+CUDA CPU,image_2000_18_1.png,55631
+CPU,image_2000_18_1.png,220188
+CUDA, image_2000_18_1.png,70266
+CUDA V2, image_2000_18_1.png,43866
+CUDA CPU V2, image_2000_18_1.png,44613
+CUDA CPU,image_2000_18_2.png,53761
+CPU,image_2000_18_2.png,221765
+CUDA, image_2000_18_2.png,68381
+CUDA V2, image_2000_18_2.png,45352
+CUDA CPU V2, image_2000_18_2.png,42560
+CUDA CPU,image_2000_18_3.png,52703
+CPU,image_2000_18_3.png,220653
+CUDA, image_2000_18_3.png,70817
+CUDA V2, image_2000_18_3.png,45006
+CUDA CPU V2, image_2000_18_3.png,42253
+CUDA CPU,image_2000_18_4.png,52118
+CPU,image_2000_18_4.png,221089
+CUDA, image_2000_18_4.png,68775
+CUDA V2, image_2000_18_4.png,43923
+CUDA CPU V2, image_2000_18_4.png,42579
+CUDA CPU,image_2000_18_5.png,52923
+CPU,image_2000_18_5.png,219497
+CUDA, image_2000_18_5.png,67961
+CUDA V2, image_2000_18_5.png,43778
+CUDA CPU V2, image_2000_18_5.png,42667
+CUDA CPU,image_2000_18_6.png,53496
+CPU,image_2000_18_6.png,222269
+CUDA, image_2000_18_6.png,68344
+CUDA V2, image_2000_18_6.png,44126
+CUDA CPU V2, image_2000_18_6.png,42669
+CUDA CPU,image_2000_18_7.png,53861
+CPU,image_2000_18_7.png,219946
+CUDA, image_2000_18_7.png,66786
+CUDA V2, image_2000_18_7.png,43890
+CUDA CPU V2, image_2000_18_7.png,42304
+CUDA CPU,image_2000_18_8.png,55022
+CPU,image_2000_18_8.png,220004
+CUDA, image_2000_18_8.png,68514
+CUDA V2, image_2000_18_8.png,44177
+CUDA CPU V2, image_2000_18_8.png,43718
+CUDA CPU,image_2000_18_9.png,54245
+CPU,image_2000_18_9.png,222362
+CUDA, image_2000_18_9.png,65430
+CUDA V2, image_2000_18_9.png,44865
+CUDA CPU V2, image_2000_18_9.png,42505
+CUDA CPU,image_2000_3_0.png,38086
+CPU,image_2000_3_0.png,103496
+CUDA, image_2000_3_0.png,46701
+CUDA V2, image_2000_3_0.png,29996
+CUDA CPU V2, image_2000_3_0.png,28772
+CUDA CPU,image_2000_3_1.png,35613
+CPU,image_2000_3_1.png,106769
+CUDA, image_2000_3_1.png,44151
+CUDA V2, image_2000_3_1.png,30033
+CUDA CPU V2, image_2000_3_1.png,29019
+CUDA CPU,image_2000_3_2.png,36060
+CPU,image_2000_3_2.png,106458
+CUDA, image_2000_3_2.png,37549
+CUDA V2, image_2000_3_2.png,28922
+CUDA CPU V2, image_2000_3_2.png,30699
+CUDA CPU,image_2000_3_3.png,37635
+CPU,image_2000_3_3.png,105466
+CUDA, image_2000_3_3.png,41239
+CUDA V2, image_2000_3_3.png,30697
+CUDA CPU V2, image_2000_3_3.png,29088
+CUDA CPU,image_2000_3_4.png,36382
+CPU,image_2000_3_4.png,103561
+CUDA, image_2000_3_4.png,45766
+CUDA V2, image_2000_3_4.png,29622
+CUDA CPU V2, image_2000_3_4.png,30763
+CUDA CPU,image_2000_3_5.png,35742
+CPU,image_2000_3_5.png,106594
+CUDA, image_2000_3_5.png,43944
+CUDA V2, image_2000_3_5.png,30223
+CUDA CPU V2, image_2000_3_5.png,29418
+CUDA CPU,image_2000_3_6.png,36411
+CPU,image_2000_3_6.png,105306
+CUDA, image_2000_3_6.png,46677
+CUDA V2, image_2000_3_6.png,30015
+CUDA CPU V2, image_2000_3_6.png,29117
+CUDA CPU,image_2000_3_7.png,37262
+CPU,image_2000_3_7.png,104311
+CUDA, image_2000_3_7.png,44622
+CUDA V2, image_2000_3_7.png,29417
+CUDA CPU V2, image_2000_3_7.png,30041
+CUDA CPU,image_2000_3_8.png,35669
+CPU,image_2000_3_8.png,103873
+CUDA, image_2000_3_8.png,45302
+CUDA V2, image_2000_3_8.png,30233
+CUDA CPU V2, image_2000_3_8.png,28710
+CUDA CPU,image_2000_3_9.png,36704
+CPU,image_2000_3_9.png,107911
+CUDA, image_2000_3_9.png,46462
+CUDA V2, image_2000_3_9.png,30328
+CUDA CPU V2, image_2000_3_9.png,28441
+CUDA CPU,image_2000_6_0.png,42394
+CPU,image_2000_6_0.png,128707
+CUDA, image_2000_6_0.png,50441
+CUDA V2, image_2000_6_0.png,33103
+CUDA CPU V2, image_2000_6_0.png,32243
+CUDA CPU,image_2000_6_1.png,48161
+CPU,image_2000_6_1.png,167021
+CUDA, image_2000_6_1.png,57541
+CUDA V2, image_2000_6_1.png,35223
+CUDA CPU V2, image_2000_6_1.png,34180
+CUDA CPU,image_2000_6_2.png,41481
+CPU,image_2000_6_2.png,131138
+CUDA, image_2000_6_2.png,53026
+CUDA V2, image_2000_6_2.png,34663
+CUDA CPU V2, image_2000_6_2.png,32727
+CUDA CPU,image_2000_6_3.png,40601
+CPU,image_2000_6_3.png,127543
+CUDA, image_2000_6_3.png,50295
+CUDA V2, image_2000_6_3.png,34046
+CUDA CPU V2, image_2000_6_3.png,34848
+CUDA CPU,image_2000_6_4.png,40960
+CPU,image_2000_6_4.png,127459
+CUDA, image_2000_6_4.png,52444
+CUDA V2, image_2000_6_4.png,33866
+CUDA CPU V2, image_2000_6_4.png,33536
+CUDA CPU,image_2000_6_5.png,40879
+CPU,image_2000_6_5.png,130356
+CUDA, image_2000_6_5.png,50674
+CUDA V2, image_2000_6_5.png,33624
+CUDA CPU V2, image_2000_6_5.png,32300
+CUDA CPU,image_2000_6_6.png,42445
+CPU,image_2000_6_6.png,127032
+CUDA, image_2000_6_6.png,53385
+CUDA V2, image_2000_6_6.png,34284
+CUDA CPU V2, image_2000_6_6.png,32632
+CUDA CPU,image_2000_6_7.png,41930
+CPU,image_2000_6_7.png,131089
+CUDA, image_2000_6_7.png,50328
+CUDA V2, image_2000_6_7.png,49657
+CUDA CPU V2, image_2000_6_7.png,49572
+CUDA CPU,image_2000_6_8.png,55720
+CPU,image_2000_6_8.png,160412
+CUDA, image_2000_6_8.png,55110
+CUDA V2, image_2000_6_8.png,33829
+CUDA CPU V2, image_2000_6_8.png,32622
+CUDA CPU,image_2000_6_9.png,41047
+CPU,image_2000_6_9.png,128273
+CUDA, image_2000_6_9.png,50711
+CUDA V2, image_2000_6_9.png,33776
+CUDA CPU V2, image_2000_6_9.png,34916
+CUDA CPU,image_2000_9_0.png,44063
+CPU,image_2000_9_0.png,153914
+CUDA, image_2000_9_0.png,57717
+CUDA V2, image_2000_9_0.png,36909
+CUDA CPU V2, image_2000_9_0.png,35509
+CUDA CPU,image_2000_9_1.png,45145
+CPU,image_2000_9_1.png,152134
+CUDA, image_2000_9_1.png,45557
+CUDA V2, image_2000_9_1.png,37389
+CUDA CPU V2, image_2000_9_1.png,35350
+CUDA CPU,image_2000_9_2.png,43487
+CPU,image_2000_9_2.png,153337
+CUDA, image_2000_9_2.png,53219
+CUDA V2, image_2000_9_2.png,37003
+CUDA CPU V2, image_2000_9_2.png,35512
+CUDA CPU,image_2000_9_3.png,46177
+CPU,image_2000_9_3.png,150003
+CUDA, image_2000_9_3.png,57687
+CUDA V2, image_2000_9_3.png,37118
+CUDA CPU V2, image_2000_9_3.png,35595
+CUDA CPU,image_2000_9_4.png,44124
+CPU,image_2000_9_4.png,153668
+CUDA, image_2000_9_4.png,57805
+CUDA V2, image_2000_9_4.png,38174
+CUDA CPU V2, image_2000_9_4.png,35810
+CUDA CPU,image_2000_9_5.png,44233
+CPU,image_2000_9_5.png,156206
+CUDA, image_2000_9_5.png,57481
+CUDA V2, image_2000_9_5.png,36458
+CUDA CPU V2, image_2000_9_5.png,35597
+CUDA CPU,image_2000_9_6.png,49169
+CPU,image_2000_9_6.png,149341
+CUDA, image_2000_9_6.png,58521
+CUDA V2, image_2000_9_6.png,37064
+CUDA CPU V2, image_2000_9_6.png,35688
+CUDA CPU,image_2000_9_7.png,45581
+CPU,image_2000_9_7.png,153002
+CUDA, image_2000_9_7.png,57637
+CUDA V2, image_2000_9_7.png,37660
+CUDA CPU V2, image_2000_9_7.png,35758
+CUDA CPU,image_2000_9_8.png,45254
+CPU,image_2000_9_8.png,152475
+CUDA, image_2000_9_8.png,56907
+CUDA V2, image_2000_9_8.png,36542
+CUDA CPU V2, image_2000_9_8.png,35930
+CUDA CPU,image_2000_9_9.png,46362
+CPU,image_2000_9_9.png,150252
+CUDA, image_2000_9_9.png,57423
+CUDA V2, image_2000_9_9.png,36372
+CUDA CPU V2, image_2000_9_9.png,36446
+CUDA CPU,image_2500_0_0.png,36919
+CPU,image_2500_0_0.png,124912
+CUDA, image_2500_0_0.png,35225
+CUDA V2, image_2500_0_0.png,20476
+CUDA CPU V2, image_2500_0_0.png,23942
+CUDA CPU,image_2500_0_1.png,29002
+CPU,image_2500_0_1.png,128050
+CUDA, image_2500_0_1.png,38285
+CUDA V2, image_2500_0_1.png,26361
+CUDA CPU V2, image_2500_0_1.png,24337
+CUDA CPU,image_2500_0_2.png,30477
+CPU,image_2500_0_2.png,122352
+CUDA, image_2500_0_2.png,34646
+CUDA V2, image_2500_0_2.png,22746
+CUDA CPU V2, image_2500_0_2.png,24503
+CUDA CPU,image_2500_0_3.png,28298
+CPU,image_2500_0_3.png,122088
+CUDA, image_2500_0_3.png,37954
+CUDA V2, image_2500_0_3.png,23624
+CUDA CPU V2, image_2500_0_3.png,23943
+CUDA CPU,image_2500_0_4.png,29137
+CPU,image_2500_0_4.png,126384
+CUDA, image_2500_0_4.png,38784
+CUDA V2, image_2500_0_4.png,22900
+CUDA CPU V2, image_2500_0_4.png,30908
+CUDA CPU,image_2500_0_5.png,35302
+CPU,image_2500_0_5.png,129908
+CUDA, image_2500_0_5.png,42861
+CUDA V2, image_2500_0_5.png,29565
+CUDA CPU V2, image_2500_0_5.png,30732
+CUDA CPU,image_2500_0_6.png,37154
+CPU,image_2500_0_6.png,125541
+CUDA, image_2500_0_6.png,43657
+CUDA V2, image_2500_0_6.png,25112
+CUDA CPU V2, image_2500_0_6.png,28309
+CUDA CPU,image_2500_0_7.png,36472
+CPU,image_2500_0_7.png,131606
+CUDA, image_2500_0_7.png,41840
+CUDA V2, image_2500_0_7.png,30646
+CUDA CPU V2, image_2500_0_7.png,31720
+CUDA CPU,image_2500_0_8.png,37488
+CPU,image_2500_0_8.png,130353
+CUDA, image_2500_0_8.png,46726
+CUDA V2, image_2500_0_8.png,24180
+CUDA CPU V2, image_2500_0_8.png,28534
+CUDA CPU,image_2500_0_9.png,36742
+CPU,image_2500_0_9.png,126420
+CUDA, image_2500_0_9.png,41836
+CUDA V2, image_2500_0_9.png,30623
+CUDA CPU V2, image_2500_0_9.png,32148
+CUDA CPU,image_2500_12_0.png,66876
+CPU,image_2500_12_0.png,279214
+CUDA, image_2500_12_0.png,92240
+CUDA V2, image_2500_12_0.png,61543
+CUDA CPU V2, image_2500_12_0.png,65972
+CUDA CPU,image_2500_12_1.png,99364
+CPU,image_2500_12_1.png,380458
+CUDA, image_2500_12_1.png,95820
+CUDA V2, image_2500_12_1.png,62442
+CUDA CPU V2, image_2500_12_1.png,60878
+CUDA CPU,image_2500_12_2.png,74244
+CPU,image_2500_12_2.png,279146
+CUDA, image_2500_12_2.png,89150
+CUDA V2, image_2500_12_2.png,61760
+CUDA CPU V2, image_2500_12_2.png,60311
+CUDA CPU,image_2500_12_3.png,71897
+CPU,image_2500_12_3.png,277769
+CUDA, image_2500_12_3.png,89610
+CUDA V2, image_2500_12_3.png,60229
+CUDA CPU V2, image_2500_12_3.png,62692
+CUDA CPU,image_2500_12_4.png,71594
+CPU,image_2500_12_4.png,274780
+CUDA, image_2500_12_4.png,93154
+CUDA V2, image_2500_12_4.png,61078
+CUDA CPU V2, image_2500_12_4.png,61160
+CUDA CPU,image_2500_12_5.png,72414
+CPU,image_2500_12_5.png,274750
+CUDA, image_2500_12_5.png,89145
+CUDA V2, image_2500_12_5.png,61028
+CUDA CPU V2, image_2500_12_5.png,60341
+CUDA CPU,image_2500_12_6.png,74542
+CPU,image_2500_12_6.png,274202
+CUDA, image_2500_12_6.png,87958
+CUDA V2, image_2500_12_6.png,62917
+CUDA CPU V2, image_2500_12_6.png,61327
+CUDA CPU,image_2500_12_7.png,72426
+CPU,image_2500_12_7.png,277763
+CUDA, image_2500_12_7.png,86754
+CUDA V2, image_2500_12_7.png,62827
+CUDA CPU V2, image_2500_12_7.png,60904
+CUDA CPU,image_2500_12_8.png,75264
+CPU,image_2500_12_8.png,276928
+CUDA, image_2500_12_8.png,89199
+CUDA V2, image_2500_12_8.png,61208
+CUDA CPU V2, image_2500_12_8.png,62792
+CUDA CPU,image_2500_12_9.png,73348
+CPU,image_2500_12_9.png,275741
+CUDA, image_2500_12_9.png,90531
+CUDA V2, image_2500_12_9.png,61174
+CUDA CPU V2, image_2500_12_9.png,62399
+CUDA CPU,image_2500_15_0.png,76250
+CPU,image_2500_15_0.png,312693
+CUDA, image_2500_15_0.png,95988
+CUDA V2, image_2500_15_0.png,65118
+CUDA CPU V2, image_2500_15_0.png,65571
+CUDA CPU,image_2500_15_1.png,76260
+CPU,image_2500_15_1.png,313664
+CUDA, image_2500_15_1.png,94103
+CUDA V2, image_2500_15_1.png,63938
+CUDA CPU V2, image_2500_15_1.png,65776
+CUDA CPU,image_2500_15_2.png,76592
+CPU,image_2500_15_2.png,315236
+CUDA, image_2500_15_2.png,92868
+CUDA V2, image_2500_15_2.png,64112
+CUDA CPU V2, image_2500_15_2.png,66581
+CUDA CPU,image_2500_15_3.png,78260
+CPU,image_2500_15_3.png,313395
+CUDA, image_2500_15_3.png,93408
+CUDA V2, image_2500_15_3.png,65313
+CUDA CPU V2, image_2500_15_3.png,64089
+CUDA CPU,image_2500_15_4.png,76312
+CPU,image_2500_15_4.png,319882
+CUDA, image_2500_15_4.png,95562
+CUDA V2, image_2500_15_4.png,66312
+CUDA CPU V2, image_2500_15_4.png,64609
+CUDA CPU,image_2500_15_5.png,75419
+CPU,image_2500_15_5.png,314116
+CUDA, image_2500_15_5.png,90200
+CUDA V2, image_2500_15_5.png,65381
+CUDA CPU V2, image_2500_15_5.png,64393
+CUDA CPU,image_2500_15_6.png,81819
+CPU,image_2500_15_6.png,432198
+CUDA, image_2500_15_6.png,101351
+CUDA V2, image_2500_15_6.png,75101
+CUDA CPU V2, image_2500_15_6.png,69961
+CUDA CPU,image_2500_15_7.png,98374
+CPU,image_2500_15_7.png,405098
+CUDA, image_2500_15_7.png,91613
+CUDA V2, image_2500_15_7.png,60859
+CUDA CPU V2, image_2500_15_7.png,60873
+CUDA CPU,image_2500_15_8.png,73623
+CPU,image_2500_15_8.png,311165
+CUDA, image_2500_15_8.png,90888
+CUDA V2, image_2500_15_8.png,61388
+CUDA CPU V2, image_2500_15_8.png,60404
+CUDA CPU,image_2500_15_9.png,73633
+CPU,image_2500_15_9.png,305808
+CUDA, image_2500_15_9.png,87857
+CUDA V2, image_2500_15_9.png,62081
+CUDA CPU V2, image_2500_15_9.png,60822
+CUDA CPU,image_2500_18_0.png,78691
+CPU,image_2500_18_0.png,343519
+CUDA, image_2500_18_0.png,97675
+CUDA V2, image_2500_18_0.png,64402
+CUDA CPU V2, image_2500_18_0.png,65254
+CUDA CPU,image_2500_18_1.png,76538
+CPU,image_2500_18_1.png,345170
+CUDA, image_2500_18_1.png,93586
+CUDA V2, image_2500_18_1.png,65837
+CUDA CPU V2, image_2500_18_1.png,66290
+CUDA CPU,image_2500_18_2.png,75614
+CPU,image_2500_18_2.png,345527
+CUDA, image_2500_18_2.png,95800
+CUDA V2, image_2500_18_2.png,66161
+CUDA CPU V2, image_2500_18_2.png,64488
+CUDA CPU,image_2500_18_3.png,82790
+CPU,image_2500_18_3.png,343334
+CUDA, image_2500_18_3.png,95199
+CUDA V2, image_2500_18_3.png,72420
+CUDA CPU V2, image_2500_18_3.png,70515
+CUDA CPU,image_2500_18_4.png,64763
+CPU,image_2500_18_4.png,346231
+CUDA, image_2500_18_4.png,96523
+CUDA V2, image_2500_18_4.png,65001
+CUDA CPU V2, image_2500_18_4.png,64715
+CUDA CPU,image_2500_18_5.png,81555
+CPU,image_2500_18_5.png,345453
+CUDA, image_2500_18_5.png,93990
+CUDA V2, image_2500_18_5.png,65669
+CUDA CPU V2, image_2500_18_5.png,66086
+CUDA CPU,image_2500_18_6.png,77027
+CPU,image_2500_18_6.png,347172
+CUDA, image_2500_18_6.png,93033
+CUDA V2, image_2500_18_6.png,68133
+CUDA CPU V2, image_2500_18_6.png,64570
+CUDA CPU,image_2500_18_7.png,80329
+CPU,image_2500_18_7.png,342535
+CUDA, image_2500_18_7.png,98113
+CUDA V2, image_2500_18_7.png,59713
+CUDA CPU V2, image_2500_18_7.png,57318
+CUDA CPU,image_2500_18_8.png,64267
+CPU,image_2500_18_8.png,349634
+CUDA, image_2500_18_8.png,92707
+CUDA V2, image_2500_18_8.png,66125
+CUDA CPU V2, image_2500_18_8.png,65119
+CUDA CPU,image_2500_18_9.png,78662
+CPU,image_2500_18_9.png,343738
+CUDA, image_2500_18_9.png,95595
+CUDA V2, image_2500_18_9.png,65237
+CUDA CPU V2, image_2500_18_9.png,65816
+CUDA CPU,image_2500_3_0.png,54592
+CPU,image_2500_3_0.png,164508
+CUDA, image_2500_3_0.png,68465
+CUDA V2, image_2500_3_0.png,43044
+CUDA CPU V2, image_2500_3_0.png,42180
+CUDA CPU,image_2500_3_1.png,53071
+CPU,image_2500_3_1.png,169968
+CUDA, image_2500_3_1.png,65348
+CUDA V2, image_2500_3_1.png,42841
+CUDA CPU V2, image_2500_3_1.png,42698
+CUDA CPU,image_2500_3_2.png,51673
+CPU,image_2500_3_2.png,161681
+CUDA, image_2500_3_2.png,63505
+CUDA V2, image_2500_3_2.png,42436
+CUDA CPU V2, image_2500_3_2.png,42282
+CUDA CPU,image_2500_3_3.png,51530
+CPU,image_2500_3_3.png,164897
+CUDA, image_2500_3_3.png,66796
+CUDA V2, image_2500_3_3.png,42500
+CUDA CPU V2, image_2500_3_3.png,42416
+CUDA CPU,image_2500_3_4.png,50632
+CPU,image_2500_3_4.png,163867
+CUDA, image_2500_3_4.png,64524
+CUDA V2, image_2500_3_4.png,45085
+CUDA CPU V2, image_2500_3_4.png,42428
+CUDA CPU,image_2500_3_5.png,51120
+CPU,image_2500_3_5.png,165135
+CUDA, image_2500_3_5.png,63085
+CUDA V2, image_2500_3_5.png,42827
+CUDA CPU V2, image_2500_3_5.png,44343
+CUDA CPU,image_2500_3_6.png,51020
+CPU,image_2500_3_6.png,165923
+CUDA, image_2500_3_6.png,65473
+CUDA V2, image_2500_3_6.png,43528
+CUDA CPU V2, image_2500_3_6.png,43998
+CUDA CPU,image_2500_3_7.png,52455
+CPU,image_2500_3_7.png,165372
+CUDA, image_2500_3_7.png,62766
+CUDA V2, image_2500_3_7.png,43580
+CUDA CPU V2, image_2500_3_7.png,43334
+CUDA CPU,image_2500_3_8.png,52975
+CPU,image_2500_3_8.png,161695
+CUDA, image_2500_3_8.png,66360
+CUDA V2, image_2500_3_8.png,43111
+CUDA CPU V2, image_2500_3_8.png,42747
+CUDA CPU,image_2500_3_9.png,53172
+CPU,image_2500_3_9.png,165903
+CUDA, image_2500_3_9.png,64402
+CUDA V2, image_2500_3_9.png,43055
+CUDA CPU V2, image_2500_3_9.png,43092
+CUDA CPU,image_2500_6_0.png,57077
+CPU,image_2500_6_0.png,200538
+CUDA, image_2500_6_0.png,76807
+CUDA V2, image_2500_6_0.png,52354
+CUDA CPU V2, image_2500_6_0.png,49513
+CUDA CPU,image_2500_6_1.png,61392
+CPU,image_2500_6_1.png,198801
+CUDA, image_2500_6_1.png,77868
+CUDA V2, image_2500_6_1.png,49872
+CUDA CPU V2, image_2500_6_1.png,50692
+CUDA CPU,image_2500_6_2.png,60853
+CPU,image_2500_6_2.png,199886
+CUDA, image_2500_6_2.png,76836
+CUDA V2, image_2500_6_2.png,50357
+CUDA CPU V2, image_2500_6_2.png,51953
+CUDA CPU,image_2500_6_3.png,59571
+CPU,image_2500_6_3.png,200915
+CUDA, image_2500_6_3.png,76596
+CUDA V2, image_2500_6_3.png,51115
+CUDA CPU V2, image_2500_6_3.png,49609
+CUDA CPU,image_2500_6_4.png,59468
+CPU,image_2500_6_4.png,201946
+CUDA, image_2500_6_4.png,75724
+CUDA V2, image_2500_6_4.png,50825
+CUDA CPU V2, image_2500_6_4.png,49226
+CUDA CPU,image_2500_6_5.png,58770
+CPU,image_2500_6_5.png,200587
+CUDA, image_2500_6_5.png,74163
+CUDA V2, image_2500_6_5.png,50400
+CUDA CPU V2, image_2500_6_5.png,49077
+CUDA CPU,image_2500_6_6.png,62295
+CPU,image_2500_6_6.png,199879
+CUDA, image_2500_6_6.png,77288
+CUDA V2, image_2500_6_6.png,49306
+CUDA CPU V2, image_2500_6_6.png,48646
+CUDA CPU,image_2500_6_7.png,58741
+CPU,image_2500_6_7.png,200836
+CUDA, image_2500_6_7.png,72542
+CUDA V2, image_2500_6_7.png,49493
+CUDA CPU V2, image_2500_6_7.png,48342
+CUDA CPU,image_2500_6_8.png,57027
+CPU,image_2500_6_8.png,200520
+CUDA, image_2500_6_8.png,73637
+CUDA V2, image_2500_6_8.png,49759
+CUDA CPU V2, image_2500_6_8.png,50902
+CUDA CPU,image_2500_6_9.png,58085
+CPU,image_2500_6_9.png,203937
+CUDA, image_2500_6_9.png,74442
+CUDA V2, image_2500_6_9.png,51378
+CUDA CPU V2, image_2500_6_9.png,49428
+CUDA CPU,image_2500_9_0.png,63673
+CPU,image_2500_9_0.png,235834
+CUDA, image_2500_9_0.png,82201
+CUDA V2, image_2500_9_0.png,53393
+CUDA CPU V2, image_2500_9_0.png,53029
+CUDA CPU,image_2500_9_1.png,65637
+CPU,image_2500_9_1.png,237468
+CUDA, image_2500_9_1.png,81276
+CUDA V2, image_2500_9_1.png,54463
+CUDA CPU V2, image_2500_9_1.png,54968
+CUDA CPU,image_2500_9_2.png,64331
+CPU,image_2500_9_2.png,236664
+CUDA, image_2500_9_2.png,84834
+CUDA V2, image_2500_9_2.png,54923
+CUDA CPU V2, image_2500_9_2.png,53779
+CUDA CPU,image_2500_9_3.png,67631
+CPU,image_2500_9_3.png,237503
+CUDA, image_2500_9_3.png,83125
+CUDA V2, image_2500_9_3.png,54514
+CUDA CPU V2, image_2500_9_3.png,56925
+CUDA CPU,image_2500_9_4.png,64418
+CPU,image_2500_9_4.png,235499
+CUDA, image_2500_9_4.png,84591
+CUDA V2, image_2500_9_4.png,54257
+CUDA CPU V2, image_2500_9_4.png,53651
+CUDA CPU,image_2500_9_5.png,65363
+CPU,image_2500_9_5.png,237730
+CUDA, image_2500_9_5.png,52971
+CUDA V2, image_2500_9_5.png,49849
+CUDA CPU V2, image_2500_9_5.png,51041
+CUDA CPU,image_2500_9_6.png,64948
+CPU,image_2500_9_6.png,236428
+CUDA, image_2500_9_6.png,79056
+CUDA V2, image_2500_9_6.png,55597
+CUDA CPU V2, image_2500_9_6.png,53315
+CUDA CPU,image_2500_9_7.png,71383
+CPU,image_2500_9_7.png,245589
+CUDA, image_2500_9_7.png,81886
+CUDA V2, image_2500_9_7.png,53347
+CUDA CPU V2, image_2500_9_7.png,52670
+CUDA CPU,image_2500_9_8.png,66834
+CPU,image_2500_9_8.png,239334
+CUDA, image_2500_9_8.png,80828
+CUDA V2, image_2500_9_8.png,55106
+CUDA CPU V2, image_2500_9_8.png,53466
+CUDA CPU,image_2500_9_9.png,63594
+CPU,image_2500_9_9.png,235468
+CUDA, image_2500_9_9.png,83619
+CUDA V2, image_2500_9_9.png,54805
+CUDA CPU V2, image_2500_9_9.png,53618
+CUDA CPU,image_500_0_0.png,7353
+CPU,image_500_0_0.png,5030
+CUDA, image_500_0_0.png,5359
+CUDA V2, image_500_0_0.png,3659
+CUDA CPU V2, image_500_0_0.png,2883
+CUDA CPU,image_500_0_1.png,5078
+CPU,image_500_0_1.png,6377
+CUDA, image_500_0_1.png,5567
+CUDA V2, image_500_0_1.png,4170
+CUDA CPU V2, image_500_0_1.png,2821
+CUDA CPU,image_500_0_2.png,5028
+CPU,image_500_0_2.png,4781
+CUDA, image_500_0_2.png,6502
+CUDA V2, image_500_0_2.png,3553
+CUDA CPU V2, image_500_0_2.png,2580
+CUDA CPU,image_500_0_3.png,4688
+CPU,image_500_0_3.png,4923
+CUDA, image_500_0_3.png,5785
+CUDA V2, image_500_0_3.png,3421
+CUDA CPU V2, image_500_0_3.png,2566
+CUDA CPU,image_500_0_4.png,5311
+CPU,image_500_0_4.png,5188
+CUDA, image_500_0_4.png,5752
+CUDA V2, image_500_0_4.png,3102
+CUDA CPU V2, image_500_0_4.png,2486
+CUDA CPU,image_500_0_5.png,5550
+CPU,image_500_0_5.png,4938
+CUDA, image_500_0_5.png,5313
+CUDA V2, image_500_0_5.png,3421
+CUDA CPU V2, image_500_0_5.png,2431
+CUDA CPU,image_500_0_6.png,6213
+CPU,image_500_0_6.png,4952
+CUDA, image_500_0_6.png,6036
+CUDA V2, image_500_0_6.png,3406
+CUDA CPU V2, image_500_0_6.png,2459
+CUDA CPU,image_500_0_7.png,5361
+CPU,image_500_0_7.png,4870
+CUDA, image_500_0_7.png,5583
+CUDA V2, image_500_0_7.png,3326
+CUDA CPU V2, image_500_0_7.png,2950
+CUDA CPU,image_500_0_8.png,5486
+CPU,image_500_0_8.png,4905
+CUDA, image_500_0_8.png,5949
+CUDA V2, image_500_0_8.png,3396
+CUDA CPU V2, image_500_0_8.png,2630
+CUDA CPU,image_500_0_9.png,5168
+CPU,image_500_0_9.png,4908
+CUDA, image_500_0_9.png,5874
+CUDA V2, image_500_0_9.png,3671
+CUDA CPU V2, image_500_0_9.png,3037
+CUDA CPU,image_500_12_0.png,7747
+CPU,image_500_12_0.png,10919
+CUDA, image_500_12_0.png,7824
+CUDA V2, image_500_12_0.png,4623
+CUDA CPU V2, image_500_12_0.png,4355
+CUDA CPU,image_500_12_1.png,7936
+CPU,image_500_12_1.png,10588
+CUDA, image_500_12_1.png,9195
+CUDA V2, image_500_12_1.png,6023
+CUDA CPU V2, image_500_12_1.png,4946
+CUDA CPU,image_500_12_2.png,7979
+CPU,image_500_12_2.png,10747
+CUDA, image_500_12_2.png,8928
+CUDA V2, image_500_12_2.png,5485
+CUDA CPU V2, image_500_12_2.png,4265
+CUDA CPU,image_500_12_3.png,8585
+CPU,image_500_12_3.png,11155
+CUDA, image_500_12_3.png,9557
+CUDA V2, image_500_12_3.png,5891
+CUDA CPU V2, image_500_12_3.png,4531
+CUDA CPU,image_500_12_4.png,8913
+CPU,image_500_12_4.png,11073
+CUDA, image_500_12_4.png,9378
+CUDA V2, image_500_12_4.png,5361
+CUDA CPU V2, image_500_12_4.png,4662
+CUDA CPU,image_500_12_5.png,8839
+CPU,image_500_12_5.png,12000
+CUDA, image_500_12_5.png,9743
+CUDA V2, image_500_12_5.png,5278
+CUDA CPU V2, image_500_12_5.png,4555
+CUDA CPU,image_500_12_6.png,8876
+CPU,image_500_12_6.png,10933
+CUDA, image_500_12_6.png,10447
+CUDA V2, image_500_12_6.png,5205
+CUDA CPU V2, image_500_12_6.png,4313
+CUDA CPU,image_500_12_7.png,8770
+CPU,image_500_12_7.png,11293
+CUDA, image_500_12_7.png,10384
+CUDA V2, image_500_12_7.png,5170
+CUDA CPU V2, image_500_12_7.png,4313
+CUDA CPU,image_500_12_8.png,8868
+CPU,image_500_12_8.png,10569
+CUDA, image_500_12_8.png,9759
+CUDA V2, image_500_12_8.png,5639
+CUDA CPU V2, image_500_12_8.png,4315
+CUDA CPU,image_500_12_9.png,9167
+CPU,image_500_12_9.png,10768
+CUDA, image_500_12_9.png,10308
+CUDA V2, image_500_12_9.png,5339
+CUDA CPU V2, image_500_12_9.png,4569
+CUDA CPU,image_500_15_0.png,12040
+CPU,image_500_15_0.png,12161
+CUDA, image_500_15_0.png,10612
+CUDA V2, image_500_15_0.png,5467
+CUDA CPU V2, image_500_15_0.png,4843
+CUDA CPU,image_500_15_1.png,9661
+CPU,image_500_15_1.png,12349
+CUDA, image_500_15_1.png,10961
+CUDA V2, image_500_15_1.png,5660
+CUDA CPU V2, image_500_15_1.png,4492
+CUDA CPU,image_500_15_2.png,8536
+CPU,image_500_15_2.png,12179
+CUDA, image_500_15_2.png,9931
+CUDA V2, image_500_15_2.png,5866
+CUDA CPU V2, image_500_15_2.png,4579
+CUDA CPU,image_500_15_3.png,11344
+CPU,image_500_15_3.png,12182
+CUDA, image_500_15_3.png,10064
+CUDA V2, image_500_15_3.png,5907
+CUDA CPU V2, image_500_15_3.png,4474
+CUDA CPU,image_500_15_4.png,8911
+CPU,image_500_15_4.png,12172
+CUDA, image_500_15_4.png,9782
+CUDA V2, image_500_15_4.png,5503
+CUDA CPU V2, image_500_15_4.png,4681
+CUDA CPU,image_500_15_5.png,8819
+CPU,image_500_15_5.png,11805
+CUDA, image_500_15_5.png,9990
+CUDA V2, image_500_15_5.png,5366
+CUDA CPU V2, image_500_15_5.png,4790
+CUDA CPU,image_500_15_6.png,11075
+CPU,image_500_15_6.png,11971
+CUDA, image_500_15_6.png,9844
+CUDA V2, image_500_15_6.png,5681
+CUDA CPU V2, image_500_15_6.png,4880
+CUDA CPU,image_500_15_7.png,8628
+CPU,image_500_15_7.png,12252
+CUDA, image_500_15_7.png,10224
+CUDA V2, image_500_15_7.png,5700
+CUDA CPU V2, image_500_15_7.png,4457
+CUDA CPU,image_500_15_8.png,9657
+CPU,image_500_15_8.png,12281
+CUDA, image_500_15_8.png,9830
+CUDA V2, image_500_15_8.png,6151
+CUDA CPU V2, image_500_15_8.png,5576
+CUDA CPU,image_500_15_9.png,8748
+CPU,image_500_15_9.png,13633
+CUDA, image_500_15_9.png,9776
+CUDA V2, image_500_15_9.png,5571
+CUDA CPU V2, image_500_15_9.png,5078
+CUDA CPU,image_500_18_0.png,8923
+CPU,image_500_18_0.png,13570
+CUDA, image_500_18_0.png,10432
+CUDA V2, image_500_18_0.png,5626
+CUDA CPU V2, image_500_18_0.png,4666
+CUDA CPU,image_500_18_1.png,9208
+CPU,image_500_18_1.png,13665
+CUDA, image_500_18_1.png,11122
+CUDA V2, image_500_18_1.png,5266
+CUDA CPU V2, image_500_18_1.png,4677
+CUDA CPU,image_500_18_2.png,9324
+CPU,image_500_18_2.png,13430
+CUDA, image_500_18_2.png,10280
+CUDA V2, image_500_18_2.png,5718
+CUDA CPU V2, image_500_18_2.png,4681
+CUDA CPU,image_500_18_3.png,9111
+CPU,image_500_18_3.png,13602
+CUDA, image_500_18_3.png,9885
+CUDA V2, image_500_18_3.png,5658
+CUDA CPU V2, image_500_18_3.png,4752
+CUDA CPU,image_500_18_4.png,8288
+CPU,image_500_18_4.png,13692
+CUDA, image_500_18_4.png,9471
+CUDA V2, image_500_18_4.png,5666
+CUDA CPU V2, image_500_18_4.png,4646
+CUDA CPU,image_500_18_5.png,8732
+CPU,image_500_18_5.png,13684
+CUDA, image_500_18_5.png,9878
+CUDA V2, image_500_18_5.png,5935
+CUDA CPU V2, image_500_18_5.png,4534
+CUDA CPU,image_500_18_6.png,8658
+CPU,image_500_18_6.png,13603
+CUDA, image_500_18_6.png,9872
+CUDA V2, image_500_18_6.png,5708
+CUDA CPU V2, image_500_18_6.png,4490
+CUDA CPU,image_500_18_7.png,9287
+CPU,image_500_18_7.png,13545
+CUDA, image_500_18_7.png,9344
+CUDA V2, image_500_18_7.png,5724
+CUDA CPU V2, image_500_18_7.png,4451
+CUDA CPU,image_500_18_8.png,8854
+CPU,image_500_18_8.png,13429
+CUDA, image_500_18_8.png,9615
+CUDA V2, image_500_18_8.png,5545
+CUDA CPU V2, image_500_18_8.png,4878
+CUDA CPU,image_500_18_9.png,9210
+CPU,image_500_18_9.png,13320
+CUDA, image_500_18_9.png,10308
+CUDA V2, image_500_18_9.png,5704
+CUDA CPU V2, image_500_18_9.png,5408
+CUDA CPU,image_500_3_0.png,7639
+CPU,image_500_3_0.png,6495
+CUDA, image_500_3_0.png,8376
+CUDA V2, image_500_3_0.png,5381
+CUDA CPU V2, image_500_3_0.png,3961
+CUDA CPU,image_500_3_1.png,7581
+CPU,image_500_3_1.png,6338
+CUDA, image_500_3_1.png,8597
+CUDA V2, image_500_3_1.png,4584
+CUDA CPU V2, image_500_3_1.png,4147
+CUDA CPU,image_500_3_2.png,7739
+CPU,image_500_3_2.png,6490
+CUDA, image_500_3_2.png,8311
+CUDA V2, image_500_3_2.png,5378
+CUDA CPU V2, image_500_3_2.png,3941
+CUDA CPU,image_500_3_3.png,8017
+CPU,image_500_3_3.png,6341
+CUDA, image_500_3_3.png,8408
+CUDA V2, image_500_3_3.png,5015
+CUDA CPU V2, image_500_3_3.png,3942
+CUDA CPU,image_500_3_4.png,8154
+CPU,image_500_3_4.png,6159
+CUDA, image_500_3_4.png,8521
+CUDA V2, image_500_3_4.png,4693
+CUDA CPU V2, image_500_3_4.png,4032
+CUDA CPU,image_500_3_5.png,7445
+CPU,image_500_3_5.png,6439
+CUDA, image_500_3_5.png,8489
+CUDA V2, image_500_3_5.png,5090
+CUDA CPU V2, image_500_3_5.png,4768
+CUDA CPU,image_500_3_6.png,7699
+CPU,image_500_3_6.png,6620
+CUDA, image_500_3_6.png,8792
+CUDA V2, image_500_3_6.png,5207
+CUDA CPU V2, image_500_3_6.png,3928
+CUDA CPU,image_500_3_7.png,7876
+CPU,image_500_3_7.png,6347
+CUDA, image_500_3_7.png,8685
+CUDA V2, image_500_3_7.png,4858
+CUDA CPU V2, image_500_3_7.png,4201
+CUDA CPU,image_500_3_8.png,7534
+CPU,image_500_3_8.png,6316
+CUDA, image_500_3_8.png,8673
+CUDA V2, image_500_3_8.png,5082
+CUDA CPU V2, image_500_3_8.png,4063
+CUDA CPU,image_500_3_9.png,7774
+CPU,image_500_3_9.png,6784
+CUDA, image_500_3_9.png,8694
+CUDA V2, image_500_3_9.png,4668
+CUDA CPU V2, image_500_3_9.png,4026
+CUDA CPU,image_500_6_0.png,8421
+CPU,image_500_6_0.png,8335
+CUDA, image_500_6_0.png,8784
+CUDA V2, image_500_6_0.png,5406
+CUDA CPU V2, image_500_6_0.png,4292
+CUDA CPU,image_500_6_1.png,8239
+CPU,image_500_6_1.png,7897
+CUDA, image_500_6_1.png,9472
+CUDA V2, image_500_6_1.png,5227
+CUDA CPU V2, image_500_6_1.png,4272
+CUDA CPU,image_500_6_2.png,7929
+CPU,image_500_6_2.png,7892
+CUDA, image_500_6_2.png,9402
+CUDA V2, image_500_6_2.png,5277
+CUDA CPU V2, image_500_6_2.png,4198
+CUDA CPU,image_500_6_3.png,7926
+CPU,image_500_6_3.png,7847
+CUDA, image_500_6_3.png,8930
+CUDA V2, image_500_6_3.png,5170
+CUDA CPU V2, image_500_6_3.png,4313
+CUDA CPU,image_500_6_4.png,8119
+CPU,image_500_6_4.png,7822
+CUDA, image_500_6_4.png,9307
+CUDA V2, image_500_6_4.png,5237
+CUDA CPU V2, image_500_6_4.png,4202
+CUDA CPU,image_500_6_5.png,8192
+CPU,image_500_6_5.png,7774
+CUDA, image_500_6_5.png,9258
+CUDA V2, image_500_6_5.png,5659
+CUDA CPU V2, image_500_6_5.png,4255
+CUDA CPU,image_500_6_6.png,7829
+CPU,image_500_6_6.png,7794
+CUDA, image_500_6_6.png,9193
+CUDA V2, image_500_6_6.png,5145
+CUDA CPU V2, image_500_6_6.png,4284
+CUDA CPU,image_500_6_7.png,7763
+CPU,image_500_6_7.png,7769
+CUDA, image_500_6_7.png,9316
+CUDA V2, image_500_6_7.png,5126
+CUDA CPU V2, image_500_6_7.png,4389
+CUDA CPU,image_500_6_8.png,7935
+CPU,image_500_6_8.png,7748
+CUDA, image_500_6_8.png,8642
+CUDA V2, image_500_6_8.png,5344
+CUDA CPU V2, image_500_6_8.png,4348
+CUDA CPU,image_500_6_9.png,8098
+CPU,image_500_6_9.png,7894
+CUDA, image_500_6_9.png,8762
+CUDA V2, image_500_6_9.png,5203
+CUDA CPU V2, image_500_6_9.png,4411
+CUDA CPU,image_500_9_0.png,8625
+CPU,image_500_9_0.png,9277
+CUDA, image_500_9_0.png,9272
+CUDA V2, image_500_9_0.png,5624
+CUDA CPU V2, image_500_9_0.png,4233
+CUDA CPU,image_500_9_1.png,8303
+CPU,image_500_9_1.png,10893
+CUDA, image_500_9_1.png,9008
+CUDA V2, image_500_9_1.png,5160
+CUDA CPU V2, image_500_9_1.png,4220
+CUDA CPU,image_500_9_2.png,8531
+CPU,image_500_9_2.png,9134
+CUDA, image_500_9_2.png,9897
+CUDA V2, image_500_9_2.png,5183
+CUDA CPU V2, image_500_9_2.png,4715
+CUDA CPU,image_500_9_3.png,8728
+CPU,image_500_9_3.png,9314
+CUDA, image_500_9_3.png,9533
+CUDA V2, image_500_9_3.png,5008
+CUDA CPU V2, image_500_9_3.png,4341
+CUDA CPU,image_500_9_4.png,8902
+CPU,image_500_9_4.png,9177
+CUDA, image_500_9_4.png,9331
+CUDA V2, image_500_9_4.png,5007
+CUDA CPU V2, image_500_9_4.png,4375
+CUDA CPU,image_500_9_5.png,9184
+CPU,image_500_9_5.png,9383
+CUDA, image_500_9_5.png,10143
+CUDA V2, image_500_9_5.png,5000
+CUDA CPU V2, image_500_9_5.png,4265
+CUDA CPU,image_500_9_6.png,8823
+CPU,image_500_9_6.png,9144
+CUDA, image_500_9_6.png,9880
+CUDA V2, image_500_9_6.png,4901
+CUDA CPU V2, image_500_9_6.png,4163
+CUDA CPU,image_500_9_7.png,7937
+CPU,image_500_9_7.png,9200
+CUDA, image_500_9_7.png,9305
+CUDA V2, image_500_9_7.png,5665
+CUDA CPU V2, image_500_9_7.png,4300
+CUDA CPU,image_500_9_8.png,7906
+CPU,image_500_9_8.png,9226
+CUDA, image_500_9_8.png,8988
+CUDA V2, image_500_9_8.png,5274
+CUDA CPU V2, image_500_9_8.png,4392
+CUDA CPU,image_500_9_9.png,8447
+CPU,image_500_9_9.png,9156
+CUDA, image_500_9_9.png,9888
+CUDA V2, image_500_9_9.png,5373
+CUDA CPU V2, image_500_9_9.png,4515
